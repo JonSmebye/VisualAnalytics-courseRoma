@@ -1,0 +1,8290 @@
+[
+    {
+      "LOCATION": "AUS",
+      "TIME": 1971,
+      "PC_HEALTHXP": 15.992,
+      "PC_GDP": 0.727,
+      "USD_CAP": 35.72,
+      "TOTAL_SPEND": 462.11
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1972,
+      "PC_HEALTHXP": 15.091,
+      "PC_GDP": 0.686,
+      "USD_CAP": 36.056,
+      "TOTAL_SPEND": 475.11
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1973,
+      "PC_HEALTHXP": 15.117,
+      "PC_GDP": 0.681,
+      "USD_CAP": 39.871,
+      "TOTAL_SPEND": 533.47
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1974,
+      "PC_HEALTHXP": 14.771,
+      "PC_GDP": 0.755,
+      "USD_CAP": 47.559,
+      "TOTAL_SPEND": 652.65
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1975,
+      "PC_HEALTHXP": 11.849,
+      "PC_GDP": 0.682,
+      "USD_CAP": 47.561,
+      "TOTAL_SPEND": 660.76
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1976,
+      "PC_HEALTHXP": 10.92,
+      "PC_GDP": 0.63,
+      "USD_CAP": 46.908,
+      "TOTAL_SPEND": 658.26
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1977,
+      "PC_HEALTHXP": 10.087,
+      "PC_GDP": 0.613,
+      "USD_CAP": 47.649,
+      "TOTAL_SPEND": 676.23
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1978,
+      "PC_HEALTHXP": 9.958,
+      "PC_GDP": 0.591,
+      "USD_CAP": 50.799,
+      "TOTAL_SPEND": 729.37
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1979,
+      "PC_HEALTHXP": 8.981,
+      "PC_GDP": 0.523,
+      "USD_CAP": 49.766,
+      "TOTAL_SPEND": 722.3
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1980,
+      "PC_HEALTHXP": 9.263,
+      "PC_GDP": 0.54,
+      "USD_CAP": 56.972,
+      "TOTAL_SPEND": 837.03
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1981,
+      "PC_HEALTHXP": 9.388,
+      "PC_GDP": 0.548,
+      "USD_CAP": 65.39,
+      "TOTAL_SPEND": 976.08
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1982,
+      "PC_HEALTHXP": 9.248,
+      "PC_GDP": 0.564,
+      "USD_CAP": 67.606,
+      "TOTAL_SPEND": 1026.12
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1983,
+      "PC_HEALTHXP": 9.589,
+      "PC_GDP": 0.58,
+      "USD_CAP": 74.083,
+      "TOTAL_SPEND": 1138.58
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1984,
+      "PC_HEALTHXP": 9.465,
+      "PC_GDP": 0.569,
+      "USD_CAP": 77.27,
+      "TOTAL_SPEND": 1201.08
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1985,
+      "PC_HEALTHXP": 9.56,
+      "PC_GDP": 0.58,
+      "USD_CAP": 84.134,
+      "TOTAL_SPEND": 1325.78
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1986,
+      "PC_HEALTHXP": 9.568,
+      "PC_GDP": 0.599,
+      "USD_CAP": 89.94,
+      "TOTAL_SPEND": 1440.69
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1987,
+      "PC_HEALTHXP": 9.543,
+      "PC_GDP": 0.582,
+      "USD_CAP": 93.578,
+      "TOTAL_SPEND": 1521.94
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1988,
+      "PC_HEALTHXP": 9.823,
+      "PC_GDP": 0.595,
+      "USD_CAP": 102.027,
+      "TOTAL_SPEND": 1686.73
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1989,
+      "PC_HEALTHXP": 10.199,
+      "PC_GDP": 0.623,
+      "USD_CAP": 111.197,
+      "TOTAL_SPEND": 1869.71
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1990,
+      "PC_HEALTHXP": 10.474,
+      "PC_GDP": 0.677,
+      "USD_CAP": 120.773,
+      "TOTAL_SPEND": 2061
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1991,
+      "PC_HEALTHXP": 10.937,
+      "PC_GDP": 0.739,
+      "USD_CAP": 134.356,
+      "TOTAL_SPEND": 2322.21
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1992,
+      "PC_HEALTHXP": 11.407,
+      "PC_GDP": 0.778,
+      "USD_CAP": 149.096,
+      "TOTAL_SPEND": 2608.43
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1993,
+      "PC_HEALTHXP": 11.977,
+      "PC_GDP": 0.819,
+      "USD_CAP": 165.359,
+      "TOTAL_SPEND": 2921.4
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1994,
+      "PC_HEALTHXP": 12.508,
+      "PC_GDP": 0.859,
+      "USD_CAP": 183.972,
+      "TOTAL_SPEND": 3284.82
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1995,
+      "PC_HEALTHXP": 12.762,
+      "PC_GDP": 0.882,
+      "USD_CAP": 198.406,
+      "TOTAL_SPEND": 3585.59
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1996,
+      "PC_HEALTHXP": 13.106,
+      "PC_GDP": 0.924,
+      "USD_CAP": 215.606,
+      "TOTAL_SPEND": 3947.96
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1997,
+      "PC_HEALTHXP": 13.437,
+      "PC_GDP": 0.95,
+      "USD_CAP": 232.59,
+      "TOTAL_SPEND": 4306.87
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1998,
+      "PC_HEALTHXP": 14.084,
+      "PC_GDP": 1.019,
+      "USD_CAP": 261.728,
+      "TOTAL_SPEND": 4897.19
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 1999,
+      "PC_HEALTHXP": 14.679,
+      "PC_GDP": 1.075,
+      "USD_CAP": 291.589,
+      "TOTAL_SPEND": 5518.61
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2000,
+      "PC_HEALTHXP": 15.702,
+      "PC_GDP": 1.194,
+      "USD_CAP": 338.665,
+      "TOTAL_SPEND": 6486.45
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2001,
+      "PC_HEALTHXP": 16.059,
+      "PC_GDP": 1.236,
+      "USD_CAP": 364.771,
+      "TOTAL_SPEND": 7081.3
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2002,
+      "PC_HEALTHXP": 15.374,
+      "PC_GDP": 1.213,
+      "USD_CAP": 373.044,
+      "TOTAL_SPEND": 7330.84
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2003,
+      "PC_HEALTHXP": 15.761,
+      "PC_GDP": 1.244,
+      "USD_CAP": 401.302,
+      "TOTAL_SPEND": 7984.06
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2004,
+      "PC_HEALTHXP": 15.656,
+      "PC_GDP": 1.269,
+      "USD_CAP": 429.882,
+      "TOTAL_SPEND": 8652.41
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2005,
+      "PC_HEALTHXP": 15.218,
+      "PC_GDP": 1.213,
+      "USD_CAP": 432.513,
+      "TOTAL_SPEND": 8821.02
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2006,
+      "PC_HEALTHXP": 15.276,
+      "PC_GDP": 1.219,
+      "USD_CAP": 461.821,
+      "TOTAL_SPEND": 9558.72
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2007,
+      "PC_HEALTHXP": 15.201,
+      "PC_GDP": 1.225,
+      "USD_CAP": 485.887,
+      "TOTAL_SPEND": 10119.86
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2008,
+      "PC_HEALTHXP": 15.412,
+      "PC_GDP": 1.273,
+      "USD_CAP": 510.172,
+      "TOTAL_SPEND": 10840.75
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2009,
+      "PC_HEALTHXP": 15.535,
+      "PC_GDP": 1.334,
+      "USD_CAP": 553.724,
+      "TOTAL_SPEND": 12011.21
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2010,
+      "PC_HEALTHXP": 15.63,
+      "PC_GDP": 1.324,
+      "USD_CAP": 563.857,
+      "TOTAL_SPEND": 12422.76
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2011,
+      "PC_HEALTHXP": 15.311,
+      "PC_GDP": 1.315,
+      "USD_CAP": 580.921,
+      "TOTAL_SPEND": 12977.79
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2012,
+      "PC_HEALTHXP": 15.308,
+      "PC_GDP": 1.336,
+      "USD_CAP": 582.874,
+      "TOTAL_SPEND": 13247.71
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2013,
+      "PC_HEALTHXP": 14.989,
+      "PC_GDP": 1.32,
+      "USD_CAP": 627.402,
+      "TOTAL_SPEND": 14503.87
+    },
+    {
+      "LOCATION": "AUS",
+      "TIME": 2014,
+      "PC_HEALTHXP": 14.386,
+      "PC_GDP": 1.306,
+      "USD_CAP": 616.997,
+      "TOTAL_SPEND": 14475.18
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1990,
+      "PC_HEALTHXP": 10.131,
+      "PC_GDP": 0.784,
+      "USD_CAP": 152.003,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1991,
+      "PC_HEALTHXP": 10.001,
+      "PC_GDP": 0.78,
+      "USD_CAP": 160.118,
+      "TOTAL_SPEND": 1241.7
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1992,
+      "PC_HEALTHXP": 9.889,
+      "PC_GDP": 0.801,
+      "USD_CAP": 169.708,
+      "TOTAL_SPEND": 1330.63
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1993,
+      "PC_HEALTHXP": 9.746,
+      "PC_GDP": 0.84,
+      "USD_CAP": 181.793,
+      "TOTAL_SPEND": 1437.19
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1994,
+      "PC_HEALTHXP": 9.457,
+      "PC_GDP": 0.852,
+      "USD_CAP": 192.083,
+      "TOTAL_SPEND": 1524.39
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1995,
+      "PC_HEALTHXP": 9.542,
+      "PC_GDP": 0.854,
+      "USD_CAP": 201.335,
+      "TOTAL_SPEND": 1600.27
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1996,
+      "PC_HEALTHXP": 9.839,
+      "PC_GDP": 0.876,
+      "USD_CAP": 214.418,
+      "TOTAL_SPEND": 1706.56
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1997,
+      "PC_HEALTHXP": 11.213,
+      "PC_GDP": 1.01,
+      "USD_CAP": 255.927,
+      "TOTAL_SPEND": 2039.24
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1998,
+      "PC_HEALTHXP": 11.843,
+      "PC_GDP": 1.087,
+      "USD_CAP": 288.769,
+      "TOTAL_SPEND": 2303.45
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 1999,
+      "PC_HEALTHXP": 12.551,
+      "PC_GDP": 1.17,
+      "USD_CAP": 322.318,
+      "TOTAL_SPEND": 2576.07
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2000,
+      "PC_HEALTHXP": 12.734,
+      "PC_GDP": 1.174,
+      "USD_CAP": 344.082,
+      "TOTAL_SPEND": 2756.64
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2001,
+      "PC_HEALTHXP": 12.897,
+      "PC_GDP": 1.198,
+      "USD_CAP": 356.061,
+      "TOTAL_SPEND": 2863.55
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2002,
+      "PC_HEALTHXP": 13.154,
+      "PC_GDP": 1.238,
+      "USD_CAP": 385.304,
+      "TOTAL_SPEND": 3114.01
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2003,
+      "PC_HEALTHXP": 13.607,
+      "PC_GDP": 1.304,
+      "USD_CAP": 417.087,
+      "TOTAL_SPEND": 3387.34
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2004,
+      "PC_HEALTHXP": 13.41,
+      "PC_GDP": 1.294,
+      "USD_CAP": 435.327,
+      "TOTAL_SPEND": 3557.48
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2005,
+      "PC_HEALTHXP": 13.325,
+      "PC_GDP": 1.277,
+      "USD_CAP": 445.188,
+      "TOTAL_SPEND": 3662.93
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2006,
+      "PC_HEALTHXP": 13.37,
+      "PC_GDP": 1.268,
+      "USD_CAP": 474.834,
+      "TOTAL_SPEND": 3926.23
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2007,
+      "PC_HEALTHXP": 13.605,
+      "PC_GDP": 1.289,
+      "USD_CAP": 504.849,
+      "TOTAL_SPEND": 4187.97
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2008,
+      "PC_HEALTHXP": 13.606,
+      "PC_GDP": 1.311,
+      "USD_CAP": 538.253,
+      "TOTAL_SPEND": 4479.07
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2009,
+      "PC_HEALTHXP": 12.53,
+      "PC_GDP": 1.271,
+      "USD_CAP": 517.265,
+      "TOTAL_SPEND": 4315.71
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2010,
+      "PC_HEALTHXP": 12.368,
+      "PC_GDP": 1.251,
+      "USD_CAP": 524.143,
+      "TOTAL_SPEND": 4383.62
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2011,
+      "PC_HEALTHXP": 12.473,
+      "PC_GDP": 1.236,
+      "USD_CAP": 546.783,
+      "TOTAL_SPEND": 4588.41
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2012,
+      "PC_HEALTHXP": 12.181,
+      "PC_GDP": 1.234,
+      "USD_CAP": 570.525,
+      "TOTAL_SPEND": 4809.52
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2013,
+      "PC_HEALTHXP": 12.222,
+      "PC_GDP": 1.245,
+      "USD_CAP": 594.13,
+      "TOTAL_SPEND": 5037.85
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2014,
+      "PC_HEALTHXP": 12.324,
+      "PC_GDP": 1.268,
+      "USD_CAP": 616.256,
+      "TOTAL_SPEND": 5263.8
+    },
+    {
+      "LOCATION": "AUT",
+      "TIME": 2015,
+      "PC_HEALTHXP": 12.407,
+      "PC_GDP": 1.28,
+      "USD_CAP": 632.737,
+      "TOTAL_SPEND": 5462.53
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1970,
+      "PC_HEALTHXP": 28.113,
+      "PC_GDP": 1.078,
+      "USD_CAP": 41.918,
+      "TOTAL_SPEND": 404.74
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1971,
+      "PC_HEALTHXP": 28.275,
+      "PC_GDP": 1.109,
+      "USD_CAP": 46.908,
+      "TOTAL_SPEND": 453.75
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1972,
+      "PC_HEALTHXP": 27.629,
+      "PC_GDP": 1.126,
+      "USD_CAP": 52.105,
+      "TOTAL_SPEND": 506
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1973,
+      "PC_HEALTHXP": 27.547,
+      "PC_GDP": 1.2,
+      "USD_CAP": 61.916,
+      "TOTAL_SPEND": 603.17
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1974,
+      "PC_HEALTHXP": 26.779,
+      "PC_GDP": 1.183,
+      "USD_CAP": 69.147,
+      "TOTAL_SPEND": 675.73
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1975,
+      "PC_HEALTHXP": 21.886,
+      "PC_GDP": 1.208,
+      "USD_CAP": 75.852,
+      "TOTAL_SPEND": 743.4
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1976,
+      "PC_HEALTHXP": 18.88,
+      "PC_GDP": 1.081,
+      "USD_CAP": 75.524,
+      "TOTAL_SPEND": 741.51
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1977,
+      "PC_HEALTHXP": 18.301,
+      "PC_GDP": 1.133,
+      "USD_CAP": 84.525,
+      "TOTAL_SPEND": 830.91
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1978,
+      "PC_HEALTHXP": 17.789,
+      "PC_GDP": 1.135,
+      "USD_CAP": 93.107,
+      "TOTAL_SPEND": 916.13
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1979,
+      "PC_HEALTHXP": 17.386,
+      "PC_GDP": 1.106,
+      "USD_CAP": 100.444,
+      "TOTAL_SPEND": 989.21
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1980,
+      "PC_HEALTHXP": 17.374,
+      "PC_GDP": 1.068,
+      "USD_CAP": 110.325,
+      "TOTAL_SPEND": 1087.72
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1981,
+      "PC_HEALTHXP": 16.044,
+      "PC_GDP": 1.053,
+      "USD_CAP": 118.541,
+      "TOTAL_SPEND": 1168.69
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1982,
+      "PC_HEALTHXP": 15.4,
+      "PC_GDP": 1.045,
+      "USD_CAP": 125.806,
+      "TOTAL_SPEND": 1239.98
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1983,
+      "PC_HEALTHXP": 15.594,
+      "PC_GDP": 1.084,
+      "USD_CAP": 136.098,
+      "TOTAL_SPEND": 1341.32
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1984,
+      "PC_HEALTHXP": 14.967,
+      "PC_GDP": 1.017,
+      "USD_CAP": 135.461,
+      "TOTAL_SPEND": 1335.02
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1985,
+      "PC_HEALTHXP": 15.684,
+      "PC_GDP": 1.074,
+      "USD_CAP": 149.946,
+      "TOTAL_SPEND": 1478.21
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1986,
+      "PC_HEALTHXP": 15.708,
+      "PC_GDP": 1.102,
+      "USD_CAP": 159.833,
+      "TOTAL_SPEND": 1576.24
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1987,
+      "PC_HEALTHXP": 15.952,
+      "PC_GDP": 1.136,
+      "USD_CAP": 172.74,
+      "TOTAL_SPEND": 1704.98
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1988,
+      "PC_HEALTHXP": 16.479,
+      "PC_GDP": 1.174,
+      "USD_CAP": 192.778,
+      "TOTAL_SPEND": 1908.82
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1989,
+      "PC_HEALTHXP": 16.231,
+      "PC_GDP": 1.147,
+      "USD_CAP": 201.741,
+      "TOTAL_SPEND": 2004.84
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1990,
+      "PC_HEALTHXP": 15.52,
+      "PC_GDP": 1.103,
+      "USD_CAP": 206.956,
+      "TOTAL_SPEND": 2062.81
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1991,
+      "PC_HEALTHXP": 15.597,
+      "PC_GDP": 1.157,
+      "USD_CAP": 227.548,
+      "TOTAL_SPEND": 2276.5
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1992,
+      "PC_HEALTHXP": 16.282,
+      "PC_GDP": 1.237,
+      "USD_CAP": 251.603,
+      "TOTAL_SPEND": 2527.39
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1993,
+      "PC_HEALTHXP": 17.445,
+      "PC_GDP": 1.347,
+      "USD_CAP": 276.698,
+      "TOTAL_SPEND": 2790.35
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1994,
+      "PC_HEALTHXP": 17.459,
+      "PC_GDP": 1.313,
+      "USD_CAP": 283.434,
+      "TOTAL_SPEND": 2867.11
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1995,
+      "PC_HEALTHXP": 18.068,
+      "PC_GDP": 1.351,
+      "USD_CAP": 304.259,
+      "TOTAL_SPEND": 3084.22
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1996,
+      "PC_HEALTHXP": 17.119,
+      "PC_GDP": 1.327,
+      "USD_CAP": 303.867,
+      "TOTAL_SPEND": 3086.27
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 1997,
+      "PC_HEALTHXP": 17.497,
+      "PC_GDP": 1.332,
+      "USD_CAP": 318.442,
+      "TOTAL_SPEND": 3242.14
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2003,
+      "PC_HEALTHXP": 17.13,
+      "PC_GDP": 1.557,
+      "USD_CAP": 483.535,
+      "TOTAL_SPEND": 5017.22
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2004,
+      "PC_HEALTHXP": 17.098,
+      "PC_GDP": 1.557,
+      "USD_CAP": 502.408,
+      "TOTAL_SPEND": 5235.66
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2005,
+      "PC_HEALTHXP": 17.026,
+      "PC_GDP": 1.536,
+      "USD_CAP": 512.107,
+      "TOTAL_SPEND": 5366.17
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2006,
+      "PC_HEALTHXP": 16.501,
+      "PC_GDP": 1.472,
+      "USD_CAP": 521.218,
+      "TOTAL_SPEND": 5497.79
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2007,
+      "PC_HEALTHXP": 16.676,
+      "PC_GDP": 1.493,
+      "USD_CAP": 550.12,
+      "TOTAL_SPEND": 5845.41
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2008,
+      "PC_HEALTHXP": 16.407,
+      "PC_GDP": 1.532,
+      "USD_CAP": 584.31,
+      "TOTAL_SPEND": 6257.94
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2009,
+      "PC_HEALTHXP": 15.792,
+      "PC_GDP": 1.59,
+      "USD_CAP": 605.096,
+      "TOTAL_SPEND": 6532.91
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2010,
+      "PC_HEALTHXP": 15.677,
+      "PC_GDP": 1.555,
+      "USD_CAP": 623.97,
+      "TOTAL_SPEND": 6798.52
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2011,
+      "PC_HEALTHXP": 15.345,
+      "PC_GDP": 1.547,
+      "USD_CAP": 638.092,
+      "TOTAL_SPEND": 7049.48
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2012,
+      "PC_HEALTHXP": 14.599,
+      "PC_GDP": 1.487,
+      "USD_CAP": 629.735,
+      "TOTAL_SPEND": 7007.85
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2013,
+      "PC_HEALTHXP": 14.273,
+      "PC_GDP": 1.48,
+      "USD_CAP": 642.958,
+      "TOTAL_SPEND": 7190.08
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2014,
+      "PC_HEALTHXP": 13.851,
+      "PC_GDP": 1.44,
+      "USD_CAP": 644.954,
+      "TOTAL_SPEND": 7229.33
+    },
+    {
+      "LOCATION": "BEL",
+      "TIME": 2015,
+      "PC_HEALTHXP": 14.209,
+      "PC_GDP": 1.489,
+      "USD_CAP": 678.971,
+      "TOTAL_SPEND": 7654.85
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1970,
+      "PC_HEALTHXP": 11.962,
+      "PC_GDP": 0.76,
+      "USD_CAP": 34.512,
+      "TOTAL_SPEND": 735.93
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1971,
+      "PC_HEALTHXP": 11.529,
+      "PC_GDP": 0.762,
+      "USD_CAP": 37.493,
+      "TOTAL_SPEND": 811.56
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1972,
+      "PC_HEALTHXP": 10.962,
+      "PC_GDP": 0.716,
+      "USD_CAP": 38.279,
+      "TOTAL_SPEND": 841.89
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1973,
+      "PC_HEALTHXP": 10.942,
+      "PC_GDP": 0.679,
+      "USD_CAP": 40.48,
+      "TOTAL_SPEND": 905.51
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1974,
+      "PC_HEALTHXP": 10.026,
+      "PC_GDP": 0.611,
+      "USD_CAP": 40.559,
+      "TOTAL_SPEND": 923.69
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1975,
+      "PC_HEALTHXP": 9.319,
+      "PC_GDP": 0.609,
+      "USD_CAP": 44.367,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1976,
+      "PC_HEALTHXP": 8.957,
+      "PC_GDP": 0.589,
+      "USD_CAP": 46.967,
+      "TOTAL_SPEND": 1104.57
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1977,
+      "PC_HEALTHXP": 8.9,
+      "PC_GDP": 0.583,
+      "USD_CAP": 50.511,
+      "TOTAL_SPEND": 1201.96
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1978,
+      "PC_HEALTHXP": 8.882,
+      "PC_GDP": 0.58,
+      "USD_CAP": 55.298,
+      "TOTAL_SPEND": 1329.14
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1979,
+      "PC_HEALTHXP": 9.081,
+      "PC_GDP": 0.582,
+      "USD_CAP": 61.83,
+      "TOTAL_SPEND": 1501.05
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1980,
+      "PC_HEALTHXP": 8.934,
+      "PC_GDP": 0.589,
+      "USD_CAP": 68.701,
+      "TOTAL_SPEND": 1689.56
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1981,
+      "PC_HEALTHXP": 9.357,
+      "PC_GDP": 0.635,
+      "USD_CAP": 82.876,
+      "TOTAL_SPEND": 2063.61
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1982,
+      "PC_HEALTHXP": 9.071,
+      "PC_GDP": 0.682,
+      "USD_CAP": 90.435,
+      "TOTAL_SPEND": 2279.14
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1983,
+      "PC_HEALTHXP": 9.145,
+      "PC_GDP": 0.704,
+      "USD_CAP": 98.477,
+      "TOTAL_SPEND": 2506.83
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1984,
+      "PC_HEALTHXP": 9.5,
+      "PC_GDP": 0.72,
+      "USD_CAP": 109.506,
+      "TOTAL_SPEND": 2814.52
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1985,
+      "PC_HEALTHXP": 10.061,
+      "PC_GDP": 0.763,
+      "USD_CAP": 124.336,
+      "TOTAL_SPEND": 3225.52
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1986,
+      "PC_HEALTHXP": 10.756,
+      "PC_GDP": 0.842,
+      "USD_CAP": 141.554,
+      "TOTAL_SPEND": 3709.28
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1987,
+      "PC_HEALTHXP": 11.058,
+      "PC_GDP": 0.859,
+      "USD_CAP": 152.165,
+      "TOTAL_SPEND": 4039.98
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1988,
+      "PC_HEALTHXP": 11.383,
+      "PC_GDP": 0.884,
+      "USD_CAP": 167.067,
+      "TOTAL_SPEND": 4493.27
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1989,
+      "PC_HEALTHXP": 11.691,
+      "PC_GDP": 0.932,
+      "USD_CAP": 183.938,
+      "TOTAL_SPEND": 5036.04
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1990,
+      "PC_HEALTHXP": 11.914,
+      "PC_GDP": 1,
+      "USD_CAP": 201.819,
+      "TOTAL_SPEND": 5608.75
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1991,
+      "PC_HEALTHXP": 12.135,
+      "PC_GDP": 1.102,
+      "USD_CAP": 222.113,
+      "TOTAL_SPEND": 6257.3
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1992,
+      "PC_HEALTHXP": 12.75,
+      "PC_GDP": 1.19,
+      "USD_CAP": 244.536,
+      "TOTAL_SPEND": 6974.07
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1993,
+      "PC_HEALTHXP": 13.377,
+      "PC_GDP": 1.233,
+      "USD_CAP": 263.391,
+      "TOTAL_SPEND": 7594.46
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1994,
+      "PC_HEALTHXP": 13.613,
+      "PC_GDP": 1.206,
+      "USD_CAP": 272.076,
+      "TOTAL_SPEND": 7920.65
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1995,
+      "PC_HEALTHXP": 14.358,
+      "PC_GDP": 1.229,
+      "USD_CAP": 287.512,
+      "TOTAL_SPEND": 8439.63
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1996,
+      "PC_HEALTHXP": 14.578,
+      "PC_GDP": 1.219,
+      "USD_CAP": 292.026,
+      "TOTAL_SPEND": 8664.97
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1997,
+      "PC_HEALTHXP": 15.255,
+      "PC_GDP": 1.273,
+      "USD_CAP": 320.266,
+      "TOTAL_SPEND": 9603.88
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1998,
+      "PC_HEALTHXP": 15.702,
+      "PC_GDP": 1.347,
+      "USD_CAP": 352.804,
+      "TOTAL_SPEND": 10671.58
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 1999,
+      "PC_HEALTHXP": 16.199,
+      "PC_GDP": 1.354,
+      "USD_CAP": 375.645,
+      "TOTAL_SPEND": 11456.87
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2000,
+      "PC_HEALTHXP": 16.601,
+      "PC_GDP": 1.374,
+      "USD_CAP": 402.054,
+      "TOTAL_SPEND": 12371.08
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2001,
+      "PC_HEALTHXP": 16.921,
+      "PC_GDP": 1.465,
+      "USD_CAP": 441.311,
+      "TOTAL_SPEND": 13716.78
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2002,
+      "PC_HEALTHXP": 17.438,
+      "PC_GDP": 1.55,
+      "USD_CAP": 478.226,
+      "TOTAL_SPEND": 14998.12
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2003,
+      "PC_HEALTHXP": 17.845,
+      "PC_GDP": 1.614,
+      "USD_CAP": 519.989,
+      "TOTAL_SPEND": 16471.17
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2004,
+      "PC_HEALTHXP": 17.992,
+      "PC_GDP": 1.637,
+      "USD_CAP": 553.47,
+      "TOTAL_SPEND": 17708.27
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2005,
+      "PC_HEALTHXP": 18.058,
+      "PC_GDP": 1.637,
+      "USD_CAP": 592.738,
+      "TOTAL_SPEND": 19152.55
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2006,
+      "PC_HEALTHXP": 18.251,
+      "PC_GDP": 1.68,
+      "USD_CAP": 638.701,
+      "TOTAL_SPEND": 20802.81
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2007,
+      "PC_HEALTHXP": 18.052,
+      "PC_GDP": 1.679,
+      "USD_CAP": 662.072,
+      "TOTAL_SPEND": 21774.18
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2008,
+      "PC_HEALTHXP": 17.828,
+      "PC_GDP": 1.687,
+      "USD_CAP": 679.645,
+      "TOTAL_SPEND": 22595.32
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2009,
+      "PC_HEALTHXP": 17.824,
+      "PC_GDP": 1.885,
+      "USD_CAP": 731.121,
+      "TOTAL_SPEND": 24586.55
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2010,
+      "PC_HEALTHXP": 18.471,
+      "PC_GDP": 1.951,
+      "USD_CAP": 780.901,
+      "TOTAL_SPEND": 26554.75
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2011,
+      "PC_HEALTHXP": 18.32,
+      "PC_GDP": 1.872,
+      "USD_CAP": 778.209,
+      "TOTAL_SPEND": 26725.86
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2012,
+      "PC_HEALTHXP": 17.883,
+      "PC_GDP": 1.828,
+      "USD_CAP": 770.464,
+      "TOTAL_SPEND": 26774.04
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2013,
+      "PC_HEALTHXP": 17.575,
+      "PC_GDP": 1.778,
+      "USD_CAP": 783.949,
+      "TOTAL_SPEND": 27560.08
+    },
+    {
+      "LOCATION": "CAN",
+      "TIME": 2014,
+      "PC_HEALTHXP": 17.453,
+      "PC_GDP": 1.743,
+      "USD_CAP": 785.811,
+      "TOTAL_SPEND": 27931.31
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1990,
+      "PC_HEALTHXP": 24.212,
+      "PC_GDP": 0.908,
+      "USD_CAP": 114.502,
+      "TOTAL_SPEND": 1183.19
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1991,
+      "PC_HEALTHXP": 21.496,
+      "PC_GDP": 0.836,
+      "USD_CAP": 96.461,
+      "TOTAL_SPEND": 994.38
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1992,
+      "PC_HEALTHXP": 24.69,
+      "PC_GDP": 0.99,
+      "USD_CAP": 116.212,
+      "TOTAL_SPEND": 1199.21
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1993,
+      "PC_HEALTHXP": 22.358,
+      "PC_GDP": 1.201,
+      "USD_CAP": 144.243,
+      "TOTAL_SPEND": 1490.01
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1994,
+      "PC_HEALTHXP": 28.254,
+      "PC_GDP": 1.564,
+      "USD_CAP": 197.307,
+      "TOTAL_SPEND": 2038.89
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1995,
+      "PC_HEALTHXP": 28.28,
+      "PC_GDP": 1.629,
+      "USD_CAP": 222.953,
+      "TOTAL_SPEND": 2302.49
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1996,
+      "PC_HEALTHXP": 27.665,
+      "PC_GDP": 1.56,
+      "USD_CAP": 226.75,
+      "TOTAL_SPEND": 2338.98
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1997,
+      "PC_HEALTHXP": 27.252,
+      "PC_GDP": 1.539,
+      "USD_CAP": 225.909,
+      "TOTAL_SPEND": 2327.8
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1998,
+      "PC_HEALTHXP": 25.085,
+      "PC_GDP": 1.412,
+      "USD_CAP": 209.924,
+      "TOTAL_SPEND": 2161.04
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 1999,
+      "PC_HEALTHXP": 24.149,
+      "PC_GDP": 1.403,
+      "USD_CAP": 214.504,
+      "TOTAL_SPEND": 2205.93
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2000,
+      "PC_HEALTHXP": 24.659,
+      "PC_GDP": 1.414,
+      "USD_CAP": 228.095,
+      "TOTAL_SPEND": 2339.13
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2001,
+      "PC_HEALTHXP": 24.981,
+      "PC_GDP": 1.474,
+      "USD_CAP": 258.786,
+      "TOTAL_SPEND": 2643.91
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2002,
+      "PC_HEALTHXP": 25.069,
+      "PC_GDP": 1.558,
+      "USD_CAP": 282.66,
+      "TOTAL_SPEND": 2882.26
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2003,
+      "PC_HEALTHXP": 25.196,
+      "PC_GDP": 1.657,
+      "USD_CAP": 320.79,
+      "TOTAL_SPEND": 3270.13
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2004,
+      "PC_HEALTHXP": 25.671,
+      "PC_GDP": 1.642,
+      "USD_CAP": 341.185,
+      "TOTAL_SPEND": 3479.1
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2005,
+      "PC_HEALTHXP": 25.7,
+      "PC_GDP": 1.643,
+      "USD_CAP": 360.063,
+      "TOTAL_SPEND": 3676.68
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2006,
+      "PC_HEALTHXP": 23.478,
+      "PC_GDP": 1.457,
+      "USD_CAP": 346.049,
+      "TOTAL_SPEND": 3543.16
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2007,
+      "PC_HEALTHXP": 22.213,
+      "PC_GDP": 1.339,
+      "USD_CAP": 348.982,
+      "TOTAL_SPEND": 3594.11
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2008,
+      "PC_HEALTHXP": 20.906,
+      "PC_GDP": 1.332,
+      "USD_CAP": 370.216,
+      "TOTAL_SPEND": 3844.55
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2009,
+      "PC_HEALTHXP": 22.139,
+      "PC_GDP": 1.618,
+      "USD_CAP": 446.076,
+      "TOTAL_SPEND": 4658.79
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2010,
+      "PC_HEALTHXP": 20.418,
+      "PC_GDP": 1.418,
+      "USD_CAP": 392.131,
+      "TOTAL_SPEND": 4107.34
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2011,
+      "PC_HEALTHXP": 20.432,
+      "PC_GDP": 1.426,
+      "USD_CAP": 410.511,
+      "TOTAL_SPEND": 4308.76
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2012,
+      "PC_HEALTHXP": 21.496,
+      "PC_GDP": 1.511,
+      "USD_CAP": 438.857,
+      "TOTAL_SPEND": 4612.73
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2013,
+      "PC_HEALTHXP": 17.932,
+      "PC_GDP": 1.384,
+      "USD_CAP": 421.887,
+      "TOTAL_SPEND": 4435.83
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2014,
+      "PC_HEALTHXP": 17.109,
+      "PC_GDP": 1.293,
+      "USD_CAP": 418.414,
+      "TOTAL_SPEND": 4403.95
+    },
+    {
+      "LOCATION": "CZE",
+      "TIME": 2015,
+      "PC_HEALTHXP": 17.323,
+      "PC_GDP": 1.25,
+      "USD_CAP": 421.663,
+      "TOTAL_SPEND": 4446.88
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1980,
+      "PC_HEALTHXP": 6.301,
+      "PC_GDP": 0.53,
+      "USD_CAP": 52.401,
+      "TOTAL_SPEND": 268.45
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1981,
+      "PC_HEALTHXP": 6.149,
+      "PC_GDP": 0.527,
+      "USD_CAP": 56.595,
+      "TOTAL_SPEND": 289.86
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1982,
+      "PC_HEALTHXP": 6.189,
+      "PC_GDP": 0.534,
+      "USD_CAP": 63.14,
+      "TOTAL_SPEND": 323.14
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1983,
+      "PC_HEALTHXP": 6.407,
+      "PC_GDP": 0.539,
+      "USD_CAP": 68.08,
+      "TOTAL_SPEND": 348.18
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1984,
+      "PC_HEALTHXP": 6.631,
+      "PC_GDP": 0.528,
+      "USD_CAP": 71.996,
+      "TOTAL_SPEND": 368.02
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1985,
+      "PC_HEALTHXP": 6.864,
+      "PC_GDP": 0.546,
+      "USD_CAP": 79.733,
+      "TOTAL_SPEND": 407.73
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1986,
+      "PC_HEALTHXP": 7.276,
+      "PC_GDP": 0.563,
+      "USD_CAP": 87.9,
+      "TOTAL_SPEND": 450.09
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1987,
+      "PC_HEALTHXP": 6.888,
+      "PC_GDP": 0.555,
+      "USD_CAP": 88.986,
+      "TOTAL_SPEND": 456.23
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1988,
+      "PC_HEALTHXP": 7.33,
+      "PC_GDP": 0.6,
+      "USD_CAP": 99.611,
+      "TOTAL_SPEND": 510.96
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1989,
+      "PC_HEALTHXP": 7.023,
+      "PC_GDP": 0.566,
+      "USD_CAP": 98.15,
+      "TOTAL_SPEND": 503.76
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1990,
+      "PC_HEALTHXP": 7.621,
+      "PC_GDP": 0.613,
+      "USD_CAP": 111.578,
+      "TOTAL_SPEND": 573.62
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1991,
+      "PC_HEALTHXP": 8.145,
+      "PC_GDP": 0.647,
+      "USD_CAP": 123.085,
+      "TOTAL_SPEND": 634.42
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1992,
+      "PC_HEALTHXP": 8.123,
+      "PC_GDP": 0.646,
+      "USD_CAP": 127.847,
+      "TOTAL_SPEND": 661.14
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1993,
+      "PC_HEALTHXP": 8.692,
+      "PC_GDP": 0.72,
+      "USD_CAP": 145.443,
+      "TOTAL_SPEND": 754.65
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1994,
+      "PC_HEALTHXP": 9.047,
+      "PC_GDP": 0.731,
+      "USD_CAP": 158.155,
+      "TOTAL_SPEND": 823.38
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1995,
+      "PC_HEALTHXP": 9.329,
+      "PC_GDP": 0.725,
+      "USD_CAP": 164.174,
+      "TOTAL_SPEND": 859.18
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1996,
+      "PC_HEALTHXP": 9.16,
+      "PC_GDP": 0.718,
+      "USD_CAP": 170.275,
+      "TOTAL_SPEND": 896.17
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1997,
+      "PC_HEALTHXP": 9.295,
+      "PC_GDP": 0.72,
+      "USD_CAP": 179.425,
+      "TOTAL_SPEND": 948.26
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1998,
+      "PC_HEALTHXP": 10.367,
+      "PC_GDP": 0.783,
+      "USD_CAP": 201.887,
+      "TOTAL_SPEND": 1070.85
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 1999,
+      "PC_HEALTHXP": 9.051,
+      "PC_GDP": 0.755,
+      "USD_CAP": 201.247,
+      "TOTAL_SPEND": 1071
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2000,
+      "PC_HEALTHXP": 9.068,
+      "PC_GDP": 0.735,
+      "USD_CAP": 210.487,
+      "TOTAL_SPEND": 1123.92
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2001,
+      "PC_HEALTHXP": 8.983,
+      "PC_GDP": 0.759,
+      "USD_CAP": 224.017,
+      "TOTAL_SPEND": 1200.46
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2002,
+      "PC_HEALTHXP": 9.409,
+      "PC_GDP": 0.819,
+      "USD_CAP": 250.898,
+      "TOTAL_SPEND": 1348.81
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2003,
+      "PC_HEALTHXP": 9.241,
+      "PC_GDP": 0.823,
+      "USD_CAP": 253.303,
+      "TOTAL_SPEND": 1365.45
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2004,
+      "PC_HEALTHXP": 8.921,
+      "PC_GDP": 0.804,
+      "USD_CAP": 264.636,
+      "TOTAL_SPEND": 1430.23
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2005,
+      "PC_HEALTHXP": 8.58,
+      "PC_GDP": 0.78,
+      "USD_CAP": 266.357,
+      "TOTAL_SPEND": 1443.5
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2006,
+      "PC_HEALTHXP": 8.718,
+      "PC_GDP": 0.799,
+      "USD_CAP": 298.291,
+      "TOTAL_SPEND": 1621.89
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2007,
+      "PC_HEALTHXP": 8.886,
+      "PC_GDP": 0.829,
+      "USD_CAP": 322.787,
+      "TOTAL_SPEND": 1762.88
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2008,
+      "PC_HEALTHXP": 8.328,
+      "PC_GDP": 0.792,
+      "USD_CAP": 326.956,
+      "TOTAL_SPEND": 1796.17
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2009,
+      "PC_HEALTHXP": 7.613,
+      "PC_GDP": 0.813,
+      "USD_CAP": 328.132,
+      "TOTAL_SPEND": 1812.3
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2010,
+      "PC_HEALTHXP": 7.696,
+      "PC_GDP": 0.798,
+      "USD_CAP": 344.01,
+      "TOTAL_SPEND": 1908.46
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2011,
+      "PC_HEALTHXP": 7.819,
+      "PC_GDP": 0.797,
+      "USD_CAP": 354.029,
+      "TOTAL_SPEND": 1972.14
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2012,
+      "PC_HEALTHXP": 7.395,
+      "PC_GDP": 0.759,
+      "USD_CAP": 340.25,
+      "TOTAL_SPEND": 1902.53
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2013,
+      "PC_HEALTHXP": 6.896,
+      "PC_GDP": 0.704,
+      "USD_CAP": 329.056,
+      "TOTAL_SPEND": 1847.63
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2014,
+      "PC_HEALTHXP": 6.757,
+      "PC_GDP": 0.693,
+      "USD_CAP": 331.484,
+      "TOTAL_SPEND": 1870.72
+    },
+    {
+      "LOCATION": "DNK",
+      "TIME": 2015,
+      "PC_HEALTHXP": 6.758,
+      "PC_GDP": 0.698,
+      "USD_CAP": 341.823,
+      "TOTAL_SPEND": 1942.75
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1970,
+      "PC_HEALTHXP": 13.822,
+      "PC_GDP": 0.689,
+      "USD_CAP": 23.396,
+      "TOTAL_SPEND": 107.77
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1971,
+      "PC_HEALTHXP": 14.426,
+      "PC_GDP": 0.763,
+      "USD_CAP": 27.808,
+      "TOTAL_SPEND": 128.25
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1972,
+      "PC_HEALTHXP": 14.398,
+      "PC_GDP": 0.775,
+      "USD_CAP": 31.569,
+      "TOTAL_SPEND": 146.47
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1973,
+      "PC_HEALTHXP": 13.736,
+      "PC_GDP": 0.718,
+      "USD_CAP": 32.836,
+      "TOTAL_SPEND": 153.22
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1974,
+      "PC_HEALTHXP": 13.361,
+      "PC_GDP": 0.691,
+      "USD_CAP": 35.324,
+      "TOTAL_SPEND": 165.69
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1975,
+      "PC_HEALTHXP": 12.871,
+      "PC_GDP": 0.727,
+      "USD_CAP": 41.194,
+      "TOTAL_SPEND": 194.08
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1976,
+      "PC_HEALTHXP": 12.746,
+      "PC_GDP": 0.763,
+      "USD_CAP": 45.628,
+      "TOTAL_SPEND": 215.62
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1977,
+      "PC_HEALTHXP": 12.686,
+      "PC_GDP": 0.785,
+      "USD_CAP": 49.848,
+      "TOTAL_SPEND": 236.22
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1978,
+      "PC_HEALTHXP": 12.685,
+      "PC_GDP": 0.778,
+      "USD_CAP": 54.215,
+      "TOTAL_SPEND": 257.66
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1979,
+      "PC_HEALTHXP": 11.983,
+      "PC_GDP": 0.717,
+      "USD_CAP": 57.822,
+      "TOTAL_SPEND": 275.5
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1980,
+      "PC_HEALTHXP": 11.217,
+      "PC_GDP": 0.663,
+      "USD_CAP": 61.236,
+      "TOTAL_SPEND": 292.68
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1981,
+      "PC_HEALTHXP": 10.899,
+      "PC_GDP": 0.658,
+      "USD_CAP": 66.995,
+      "TOTAL_SPEND": 321.57
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1982,
+      "PC_HEALTHXP": 10.391,
+      "PC_GDP": 0.637,
+      "USD_CAP": 70.618,
+      "TOTAL_SPEND": 340.87
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1983,
+      "PC_HEALTHXP": 10.642,
+      "PC_GDP": 0.662,
+      "USD_CAP": 78.166,
+      "TOTAL_SPEND": 379.56
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1984,
+      "PC_HEALTHXP": 10.57,
+      "PC_GDP": 0.662,
+      "USD_CAP": 83.116,
+      "TOTAL_SPEND": 405.76
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1985,
+      "PC_HEALTHXP": 10.174,
+      "PC_GDP": 0.677,
+      "USD_CAP": 90.468,
+      "TOTAL_SPEND": 443.49
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1986,
+      "PC_HEALTHXP": 10.079,
+      "PC_GDP": 0.681,
+      "USD_CAP": 95.015,
+      "TOTAL_SPEND": 467.3
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1987,
+      "PC_HEALTHXP": 10.069,
+      "PC_GDP": 0.694,
+      "USD_CAP": 102.609,
+      "TOTAL_SPEND": 506.08
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1988,
+      "PC_HEALTHXP": 9.968,
+      "PC_GDP": 0.668,
+      "USD_CAP": 107.207,
+      "TOTAL_SPEND": 530.3
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1989,
+      "PC_HEALTHXP": 9.812,
+      "PC_GDP": 0.661,
+      "USD_CAP": 115.48,
+      "TOTAL_SPEND": 573.29
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1990,
+      "PC_HEALTHXP": 9.864,
+      "PC_GDP": 0.715,
+      "USD_CAP": 129.76,
+      "TOTAL_SPEND": 647.04
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1991,
+      "PC_HEALTHXP": 10.343,
+      "PC_GDP": 0.86,
+      "USD_CAP": 150.883,
+      "TOTAL_SPEND": 756.49
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1992,
+      "PC_HEALTHXP": 11.166,
+      "PC_GDP": 0.951,
+      "USD_CAP": 164.015,
+      "TOTAL_SPEND": 826.96
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1993,
+      "PC_HEALTHXP": 12.652,
+      "PC_GDP": 0.991,
+      "USD_CAP": 172.839,
+      "TOTAL_SPEND": 875.68
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1994,
+      "PC_HEALTHXP": 13.733,
+      "PC_GDP": 1,
+      "USD_CAP": 184.471,
+      "TOTAL_SPEND": 938.65
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1995,
+      "PC_HEALTHXP": 14.321,
+      "PC_GDP": 1.053,
+      "USD_CAP": 205.851,
+      "TOTAL_SPEND": 1051.44
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1996,
+      "PC_HEALTHXP": 14.875,
+      "PC_GDP": 1.112,
+      "USD_CAP": 223.071,
+      "TOTAL_SPEND": 1143.14
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1997,
+      "PC_HEALTHXP": 15.244,
+      "PC_GDP": 1.087,
+      "USD_CAP": 236.623,
+      "TOTAL_SPEND": 1216.2
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1998,
+      "PC_HEALTHXP": 14.646,
+      "PC_GDP": 0.999,
+      "USD_CAP": 235.186,
+      "TOTAL_SPEND": 1212.03
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 1999,
+      "PC_HEALTHXP": 15.566,
+      "PC_GDP": 1.058,
+      "USD_CAP": 262.083,
+      "TOTAL_SPEND": 1353.78
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2000,
+      "PC_HEALTHXP": 15.619,
+      "PC_GDP": 1.068,
+      "USD_CAP": 285.448,
+      "TOTAL_SPEND": 1477.54
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2001,
+      "PC_HEALTHXP": 16.076,
+      "PC_GDP": 1.123,
+      "USD_CAP": 312.574,
+      "TOTAL_SPEND": 1621.64
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2002,
+      "PC_HEALTHXP": 16.247,
+      "PC_GDP": 1.196,
+      "USD_CAP": 341.56,
+      "TOTAL_SPEND": 1776.32
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2003,
+      "PC_HEALTHXP": 16.126,
+      "PC_GDP": 1.236,
+      "USD_CAP": 358.157,
+      "TOTAL_SPEND": 1867.08
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2004,
+      "PC_HEALTHXP": 16.223,
+      "PC_GDP": 1.264,
+      "USD_CAP": 393.582,
+      "TOTAL_SPEND": 2057.71
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2005,
+      "PC_HEALTHXP": 16.109,
+      "PC_GDP": 1.288,
+      "USD_CAP": 412.21,
+      "TOTAL_SPEND": 2162.49
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2006,
+      "PC_HEALTHXP": 14.67,
+      "PC_GDP": 1.174,
+      "USD_CAP": 403.756,
+      "TOTAL_SPEND": 2126.29
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2007,
+      "PC_HEALTHXP": 14.676,
+      "PC_GDP": 1.149,
+      "USD_CAP": 432.867,
+      "TOTAL_SPEND": 2289.31
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2008,
+      "PC_HEALTHXP": 14.585,
+      "PC_GDP": 1.179,
+      "USD_CAP": 471.269,
+      "TOTAL_SPEND": 2504.04
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2009,
+      "PC_HEALTHXP": 14.059,
+      "PC_GDP": 1.247,
+      "USD_CAP": 472.342,
+      "TOTAL_SPEND": 2521.77
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2010,
+      "PC_HEALTHXP": 13.512,
+      "PC_GDP": 1.198,
+      "USD_CAP": 465.105,
+      "TOTAL_SPEND": 2494.52
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2011,
+      "PC_HEALTHXP": 12.919,
+      "PC_GDP": 1.156,
+      "USD_CAP": 470.342,
+      "TOTAL_SPEND": 2534.33
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2012,
+      "PC_HEALTHXP": 12.622,
+      "PC_GDP": 1.173,
+      "USD_CAP": 476.358,
+      "TOTAL_SPEND": 2578.99
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2013,
+      "PC_HEALTHXP": 12.471,
+      "PC_GDP": 1.184,
+      "USD_CAP": 488.809,
+      "TOTAL_SPEND": 2658.62
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2014,
+      "PC_HEALTHXP": 12.327,
+      "PC_GDP": 1.169,
+      "USD_CAP": 485.113,
+      "TOTAL_SPEND": 2649.45
+    },
+    {
+      "LOCATION": "FIN",
+      "TIME": 2015,
+      "PC_HEALTHXP": 12.546,
+      "PC_GDP": 1.185,
+      "USD_CAP": 501.003,
+      "TOTAL_SPEND": 2745.26
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1970,
+      "PC_HEALTHXP": 24.413,
+      "PC_GDP": 1.266,
+      "USD_CAP": 47.192,
+      "TOTAL_SPEND": 2455.64
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1975,
+      "PC_HEALTHXP": 20.741,
+      "PC_GDP": 1.273,
+      "USD_CAP": 75.78,
+      "TOTAL_SPEND": 4111.26
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1980,
+      "PC_HEALTHXP": 16.389,
+      "PC_GDP": 1.104,
+      "USD_CAP": 107.277,
+      "TOTAL_SPEND": 5936.79
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1985,
+      "PC_HEALTHXP": 16.577,
+      "PC_GDP": 1.267,
+      "USD_CAP": 167.728,
+      "TOTAL_SPEND": 9526.23
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1990,
+      "PC_HEALTHXP": 17.282,
+      "PC_GDP": 1.375,
+      "USD_CAP": 244.051,
+      "TOTAL_SPEND": 14280.11
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1991,
+      "PC_HEALTHXP": 17.702,
+      "PC_GDP": 1.448,
+      "USD_CAP": 266.943,
+      "TOTAL_SPEND": 15632
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1992,
+      "PC_HEALTHXP": 17.619,
+      "PC_GDP": 1.48,
+      "USD_CAP": 282.21,
+      "TOTAL_SPEND": 16608.4
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1993,
+      "PC_HEALTHXP": 18.002,
+      "PC_GDP": 1.586,
+      "USD_CAP": 306.279,
+      "TOTAL_SPEND": 18103.16
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1994,
+      "PC_HEALTHXP": 17.898,
+      "PC_GDP": 1.574,
+      "USD_CAP": 316.56,
+      "TOTAL_SPEND": 18780.62
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1995,
+      "PC_HEALTHXP": 15.393,
+      "PC_GDP": 1.513,
+      "USD_CAP": 316.071,
+      "TOTAL_SPEND": 18819.47
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1996,
+      "PC_HEALTHXP": 15.224,
+      "PC_GDP": 1.497,
+      "USD_CAP": 321.77,
+      "TOTAL_SPEND": 19226.75
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1997,
+      "PC_HEALTHXP": 15.462,
+      "PC_GDP": 1.501,
+      "USD_CAP": 336.182,
+      "TOTAL_SPEND": 20159.1
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1998,
+      "PC_HEALTHXP": 15.872,
+      "PC_GDP": 1.525,
+      "USD_CAP": 358.556,
+      "TOTAL_SPEND": 21580.16
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 1999,
+      "PC_HEALTHXP": 16.395,
+      "PC_GDP": 1.576,
+      "USD_CAP": 385.896,
+      "TOTAL_SPEND": 23345.44
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2000,
+      "PC_HEALTHXP": 16.899,
+      "PC_GDP": 1.612,
+      "USD_CAP": 423.358,
+      "TOTAL_SPEND": 25787.79
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2001,
+      "PC_HEALTHXP": 17.333,
+      "PC_GDP": 1.675,
+      "USD_CAP": 464.882,
+      "TOTAL_SPEND": 28523.97
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2002,
+      "PC_HEALTHXP": 17.188,
+      "PC_GDP": 1.716,
+      "USD_CAP": 492.632,
+      "TOTAL_SPEND": 30447.25
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2003,
+      "PC_HEALTHXP": 17.559,
+      "PC_GDP": 1.763,
+      "USD_CAP": 499.545,
+      "TOTAL_SPEND": 31094.12
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2004,
+      "PC_HEALTHXP": 17.63,
+      "PC_GDP": 1.785,
+      "USD_CAP": 522.087,
+      "TOTAL_SPEND": 32737.41
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2005,
+      "PC_HEALTHXP": 17.568,
+      "PC_GDP": 1.788,
+      "USD_CAP": 548.873,
+      "TOTAL_SPEND": 34677.44
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2006,
+      "PC_HEALTHXP": 17.322,
+      "PC_GDP": 1.74,
+      "USD_CAP": 567.916,
+      "TOTAL_SPEND": 36131.6
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2007,
+      "PC_HEALTHXP": 17.21,
+      "PC_GDP": 1.714,
+      "USD_CAP": 587.233,
+      "TOTAL_SPEND": 37592.44
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2008,
+      "PC_HEALTHXP": 17.044,
+      "PC_GDP": 1.722,
+      "USD_CAP": 607.178,
+      "TOTAL_SPEND": 39087.08
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2009,
+      "PC_HEALTHXP": 16.623,
+      "PC_GDP": 1.796,
+      "USD_CAP": 626.498,
+      "TOTAL_SPEND": 40538.83
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2010,
+      "PC_HEALTHXP": 16.358,
+      "PC_GDP": 1.752,
+      "USD_CAP": 633.393,
+      "TOTAL_SPEND": 41187.97
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2011,
+      "PC_HEALTHXP": 16.072,
+      "PC_GDP": 1.724,
+      "USD_CAP": 647.845,
+      "TOTAL_SPEND": 42331.99
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2012,
+      "PC_HEALTHXP": 15.572,
+      "PC_GDP": 1.686,
+      "USD_CAP": 636.86,
+      "TOTAL_SPEND": 41816.09
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2013,
+      "PC_HEALTHXP": 14.995,
+      "PC_GDP": 1.639,
+      "USD_CAP": 649.403,
+      "TOTAL_SPEND": 42859.67
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2014,
+      "PC_HEALTHXP": 15.009,
+      "PC_GDP": 1.666,
+      "USD_CAP": 670.042,
+      "TOTAL_SPEND": 44445.2
+    },
+    {
+      "LOCATION": "FRA",
+      "TIME": 2015,
+      "PC_HEALTHXP": 14.738,
+      "PC_GDP": 1.631,
+      "USD_CAP": 667.551,
+      "TOTAL_SPEND": 44474.96
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1970,
+      "PC_HEALTHXP": 17.002,
+      "PC_GDP": 0.971,
+      "USD_CAP": 44.789,
+      "TOTAL_SPEND": 3501.12
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1971,
+      "PC_HEALTHXP": 16.225,
+      "PC_GDP": 1.004,
+      "USD_CAP": 50.027,
+      "TOTAL_SPEND": 3917.76
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1972,
+      "PC_HEALTHXP": 15.851,
+      "PC_GDP": 1.032,
+      "USD_CAP": 55.594,
+      "TOTAL_SPEND": 4374.61
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1973,
+      "PC_HEALTHXP": 15.289,
+      "PC_GDP": 1.044,
+      "USD_CAP": 61.847,
+      "TOTAL_SPEND": 4882
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1974,
+      "PC_HEALTHXP": 14.881,
+      "PC_GDP": 1.094,
+      "USD_CAP": 71.174,
+      "TOTAL_SPEND": 5620.43
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1975,
+      "PC_HEALTHXP": 14.332,
+      "PC_GDP": 1.149,
+      "USD_CAP": 81.25,
+      "TOTAL_SPEND": 6392.23
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1976,
+      "PC_HEALTHXP": 14.234,
+      "PC_GDP": 1.144,
+      "USD_CAP": 89.973,
+      "TOTAL_SPEND": 7048.21
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1977,
+      "PC_HEALTHXP": 13.85,
+      "PC_GDP": 1.104,
+      "USD_CAP": 95.521,
+      "TOTAL_SPEND": 7465.9
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1978,
+      "PC_HEALTHXP": 13.955,
+      "PC_GDP": 1.123,
+      "USD_CAP": 107.207,
+      "TOTAL_SPEND": 8371.99
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1979,
+      "PC_HEALTHXP": 13.881,
+      "PC_GDP": 1.096,
+      "USD_CAP": 117.938,
+      "TOTAL_SPEND": 9214.07
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1980,
+      "PC_HEALTHXP": 13.895,
+      "PC_GDP": 1.125,
+      "USD_CAP": 133.445,
+      "TOTAL_SPEND": 10447.22
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1981,
+      "PC_HEALTHXP": 13.98,
+      "PC_GDP": 1.174,
+      "USD_CAP": 152.687,
+      "TOTAL_SPEND": 11971.87
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1982,
+      "PC_HEALTHXP": 13.99,
+      "PC_GDP": 1.151,
+      "USD_CAP": 158.52,
+      "TOTAL_SPEND": 12417.41
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1983,
+      "PC_HEALTHXP": 14.21,
+      "PC_GDP": 1.168,
+      "USD_CAP": 170.399,
+      "TOTAL_SPEND": 13312.98
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1984,
+      "PC_HEALTHXP": 14.27,
+      "PC_GDP": 1.19,
+      "USD_CAP": 185.523,
+      "TOTAL_SPEND": 14444.58
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1985,
+      "PC_HEALTHXP": 14.302,
+      "PC_GDP": 1.213,
+      "USD_CAP": 200.236,
+      "TOTAL_SPEND": 15555.31
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1986,
+      "PC_HEALTHXP": 14.357,
+      "PC_GDP": 1.203,
+      "USD_CAP": 206.996,
+      "TOTAL_SPEND": 16087.82
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1987,
+      "PC_HEALTHXP": 14.592,
+      "PC_GDP": 1.237,
+      "USD_CAP": 221.093,
+      "TOTAL_SPEND": 17209.86
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1988,
+      "PC_HEALTHXP": 14.634,
+      "PC_GDP": 1.267,
+      "USD_CAP": 241.921,
+      "TOTAL_SPEND": 18904.82
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1989,
+      "PC_HEALTHXP": 14.819,
+      "PC_GDP": 1.195,
+      "USD_CAP": 243.328,
+      "TOTAL_SPEND": 19162.39
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1990,
+      "PC_HEALTHXP": 14.709,
+      "PC_GDP": 1.181,
+      "USD_CAP": 258.39,
+      "TOTAL_SPEND": 20524.7
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1992,
+      "PC_HEALTHXP": 15.365,
+      "PC_GDP": 1.388,
+      "USD_CAP": 301.102,
+      "TOTAL_SPEND": 24276.23
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1993,
+      "PC_HEALTHXP": 13.771,
+      "PC_GDP": 1.239,
+      "USD_CAP": 271.19,
+      "TOTAL_SPEND": 22008.79
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1994,
+      "PC_HEALTHXP": 13.388,
+      "PC_GDP": 1.236,
+      "USD_CAP": 282.377,
+      "TOTAL_SPEND": 22996.32
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1995,
+      "PC_HEALTHXP": 13.176,
+      "PC_GDP": 1.253,
+      "USD_CAP": 296.636,
+      "TOTAL_SPEND": 24228.65
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1996,
+      "PC_HEALTHXP": 13.456,
+      "PC_GDP": 1.318,
+      "USD_CAP": 319.619,
+      "TOTAL_SPEND": 26181.54
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1997,
+      "PC_HEALTHXP": 13.439,
+      "PC_GDP": 1.301,
+      "USD_CAP": 322.366,
+      "TOTAL_SPEND": 26445.22
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1998,
+      "PC_HEALTHXP": 13.956,
+      "PC_GDP": 1.354,
+      "USD_CAP": 345.877,
+      "TOTAL_SPEND": 28378.24
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 1999,
+      "PC_HEALTHXP": 13.996,
+      "PC_GDP": 1.367,
+      "USD_CAP": 363.37,
+      "TOTAL_SPEND": 29832.77
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2000,
+      "PC_HEALTHXP": 14.082,
+      "PC_GDP": 1.386,
+      "USD_CAP": 381.455,
+      "TOTAL_SPEND": 31359.99
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2001,
+      "PC_HEALTHXP": 14.692,
+      "PC_GDP": 1.451,
+      "USD_CAP": 418.329,
+      "TOTAL_SPEND": 34449.36
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2002,
+      "PC_HEALTHXP": 14.916,
+      "PC_GDP": 1.51,
+      "USD_CAP": 447.719,
+      "TOTAL_SPEND": 36931.67
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2003,
+      "PC_HEALTHXP": 14.936,
+      "PC_GDP": 1.547,
+      "USD_CAP": 469.542,
+      "TOTAL_SPEND": 38753.26
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2004,
+      "PC_HEALTHXP": 14.348,
+      "PC_GDP": 1.454,
+      "USD_CAP": 462.927,
+      "TOTAL_SPEND": 38199
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2005,
+      "PC_HEALTHXP": 15.387,
+      "PC_GDP": 1.581,
+      "USD_CAP": 512.48,
+      "TOTAL_SPEND": 42263.93
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2006,
+      "PC_HEALTHXP": 14.983,
+      "PC_GDP": 1.518,
+      "USD_CAP": 527.646,
+      "TOTAL_SPEND": 43465.6
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2007,
+      "PC_HEALTHXP": 15.321,
+      "PC_GDP": 1.53,
+      "USD_CAP": 566.139,
+      "TOTAL_SPEND": 46574.2
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2008,
+      "PC_HEALTHXP": 15.339,
+      "PC_GDP": 1.562,
+      "USD_CAP": 603.742,
+      "TOTAL_SPEND": 49573.31
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2009,
+      "PC_HEALTHXP": 15.207,
+      "PC_GDP": 1.698,
+      "USD_CAP": 640.783,
+      "TOTAL_SPEND": 52481.61
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2010,
+      "PC_HEALTHXP": 14.968,
+      "PC_GDP": 1.652,
+      "USD_CAP": 660.571,
+      "TOTAL_SPEND": 54019.47
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2011,
+      "PC_HEALTHXP": 14.255,
+      "PC_GDP": 1.532,
+      "USD_CAP": 654.053,
+      "TOTAL_SPEND": 52504.09
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2012,
+      "PC_HEALTHXP": 14.102,
+      "PC_GDP": 1.524,
+      "USD_CAP": 663.777,
+      "TOTAL_SPEND": 53384.81
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2013,
+      "PC_HEALTHXP": 13.995,
+      "PC_GDP": 1.535,
+      "USD_CAP": 694.318,
+      "TOTAL_SPEND": 55993.7
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2014,
+      "PC_HEALTHXP": 14.359,
+      "PC_GDP": 1.587,
+      "USD_CAP": 746.704,
+      "TOTAL_SPEND": 60469.96
+    },
+    {
+      "LOCATION": "DEU",
+      "TIME": 2015,
+      "PC_HEALTHXP": 14.31,
+      "PC_GDP": 1.596,
+      "USD_CAP": 765.97,
+      "TOTAL_SPEND": 62569.49
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1988,
+      "PC_HEALTHXP": 15.393,
+      "PC_GDP": 0.844,
+      "USD_CAP": 101.924,
+      "TOTAL_SPEND": 1023.01
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1989,
+      "PC_HEALTHXP": 14.147,
+      "PC_GDP": 0.851,
+      "USD_CAP": 110.191,
+      "TOTAL_SPEND": 1111.77
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1990,
+      "PC_HEALTHXP": 14.942,
+      "PC_GDP": 0.907,
+      "USD_CAP": 120.531,
+      "TOTAL_SPEND": 1229.03
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1991,
+      "PC_HEALTHXP": 17.082,
+      "PC_GDP": 1.012,
+      "USD_CAP": 141.532,
+      "TOTAL_SPEND": 1460.6
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1992,
+      "PC_HEALTHXP": 17.802,
+      "PC_GDP": 1.154,
+      "USD_CAP": 164.945,
+      "TOTAL_SPEND": 1715.27
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1993,
+      "PC_HEALTHXP": 17.283,
+      "PC_GDP": 1.257,
+      "USD_CAP": 179.964,
+      "TOTAL_SPEND": 1882.5
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1994,
+      "PC_HEALTHXP": 16.73,
+      "PC_GDP": 1.335,
+      "USD_CAP": 198.096,
+      "TOTAL_SPEND": 2082.57
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1995,
+      "PC_HEALTHXP": 16.305,
+      "PC_GDP": 1.3,
+      "USD_CAP": 200.21,
+      "TOTAL_SPEND": 2114.65
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1996,
+      "PC_HEALTHXP": 16.693,
+      "PC_GDP": 1.315,
+      "USD_CAP": 212.121,
+      "TOTAL_SPEND": 2250.35
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1997,
+      "PC_HEALTHXP": 16.871,
+      "PC_GDP": 1.298,
+      "USD_CAP": 222.511,
+      "TOTAL_SPEND": 2372.25
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1998,
+      "PC_HEALTHXP": 14.475,
+      "PC_GDP": 1.097,
+      "USD_CAP": 197.608,
+      "TOTAL_SPEND": 2118.46
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 1999,
+      "PC_HEALTHXP": 15.079,
+      "PC_GDP": 1.171,
+      "USD_CAP": 216.13,
+      "TOTAL_SPEND": 2325.93
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2000,
+      "PC_HEALTHXP": 19.871,
+      "PC_GDP": 1.439,
+      "USD_CAP": 280.723,
+      "TOTAL_SPEND": 3033.44
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2001,
+      "PC_HEALTHXP": 19.075,
+      "PC_GDP": 1.524,
+      "USD_CAP": 320.158,
+      "TOTAL_SPEND": 3477.6
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2002,
+      "PC_HEALTHXP": 19.949,
+      "PC_GDP": 1.643,
+      "USD_CAP": 371.489,
+      "TOTAL_SPEND": 4049.98
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2003,
+      "PC_HEALTHXP": 21.388,
+      "PC_GDP": 1.753,
+      "USD_CAP": 418.525,
+      "TOTAL_SPEND": 4573.67
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2004,
+      "PC_HEALTHXP": 23.038,
+      "PC_GDP": 1.827,
+      "USD_CAP": 465.174,
+      "TOTAL_SPEND": 5096.05
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2005,
+      "PC_HEALTHXP": 22.338,
+      "PC_GDP": 2.01,
+      "USD_CAP": 514.01,
+      "TOTAL_SPEND": 5647.59
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2006,
+      "PC_HEALTHXP": 23.613,
+      "PC_GDP": 2.117,
+      "USD_CAP": 604.089,
+      "TOTAL_SPEND": 6657.28
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2007,
+      "PC_HEALTHXP": 25.798,
+      "PC_GDP": 2.337,
+      "USD_CAP": 684.401,
+      "TOTAL_SPEND": 7561.59
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2009,
+      "PC_HEALTHXP": 27.171,
+      "PC_GDP": 2.573,
+      "USD_CAP": 782.011,
+      "TOTAL_SPEND": 8685.81
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2010,
+      "PC_HEALTHXP": 28.633,
+      "PC_GDP": 2.737,
+      "USD_CAP": 771.997,
+      "TOTAL_SPEND": 8585.64
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2011,
+      "PC_HEALTHXP": 30.742,
+      "PC_GDP": 2.797,
+      "USD_CAP": 731.159,
+      "TOTAL_SPEND": 8119.45
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2012,
+      "PC_HEALTHXP": 29.055,
+      "PC_GDP": 2.55,
+      "USD_CAP": 644.747,
+      "TOTAL_SPEND": 7121.24
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2013,
+      "PC_HEALTHXP": 27.742,
+      "PC_GDP": 2.312,
+      "USD_CAP": 603.509,
+      "TOTAL_SPEND": 6617.6
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2014,
+      "PC_HEALTHXP": 26.701,
+      "PC_GDP": 2.12,
+      "USD_CAP": 560.435,
+      "TOTAL_SPEND": 6104.49
+    },
+    {
+      "LOCATION": "GRC",
+      "TIME": 2015,
+      "PC_HEALTHXP": 25.878,
+      "PC_GDP": 2.17,
+      "USD_CAP": 571.913,
+      "TOTAL_SPEND": 6188.6
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 1991,
+      "PC_HEALTHXP": 30.084,
+      "PC_GDP": 1.918,
+      "USD_CAP": 158.865,
+      "TOTAL_SPEND": 1647.97
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 1992,
+      "PC_HEALTHXP": 28.857,
+      "PC_GDP": 1.981,
+      "USD_CAP": 162.754,
+      "TOTAL_SPEND": 1687.65
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 1993,
+      "PC_HEALTHXP": 30.694,
+      "PC_GDP": 2.127,
+      "USD_CAP": 178.094,
+      "TOTAL_SPEND": 1844.61
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 1994,
+      "PC_HEALTHXP": 30.348,
+      "PC_GDP": 2.248,
+      "USD_CAP": 198.12,
+      "TOTAL_SPEND": 2049.23
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 1995,
+      "PC_HEALTHXP": 26.713,
+      "PC_GDP": 1.802,
+      "USD_CAP": 164.765,
+      "TOTAL_SPEND": 1701.85
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 1996,
+      "PC_HEALTHXP": 27.273,
+      "PC_GDP": 1.816,
+      "USD_CAP": 169.22,
+      "TOTAL_SPEND": 1744.87
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 1997,
+      "PC_HEALTHXP": 27.639,
+      "PC_GDP": 1.747,
+      "USD_CAP": 171.035,
+      "TOTAL_SPEND": 1760.03
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2001,
+      "PC_HEALTHXP": 29.674,
+      "PC_GDP": 2.028,
+      "USD_CAP": 268.268,
+      "TOTAL_SPEND": 2733
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2002,
+      "PC_HEALTHXP": 28.947,
+      "PC_GDP": 2.063,
+      "USD_CAP": 299.439,
+      "TOTAL_SPEND": 3041.88
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2003,
+      "PC_HEALTHXP": 27.593,
+      "PC_GDP": 2.247,
+      "USD_CAP": 346.433,
+      "TOTAL_SPEND": 3509.21
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2004,
+      "PC_HEALTHXP": 29.108,
+      "PC_GDP": 2.267,
+      "USD_CAP": 367.309,
+      "TOTAL_SPEND": 3712.45
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2005,
+      "PC_HEALTHXP": 31.27,
+      "PC_GDP": 2.511,
+      "USD_CAP": 427.151,
+      "TOTAL_SPEND": 4308.7
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2006,
+      "PC_HEALTHXP": 31.981,
+      "PC_GDP": 2.507,
+      "USD_CAP": 457.09,
+      "TOTAL_SPEND": 4603.52
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2007,
+      "PC_HEALTHXP": 31.617,
+      "PC_GDP": 2.294,
+      "USD_CAP": 434.32,
+      "TOTAL_SPEND": 4367.43
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2008,
+      "PC_HEALTHXP": 31.912,
+      "PC_GDP": 2.277,
+      "USD_CAP": 468.726,
+      "TOTAL_SPEND": 4705.16
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2009,
+      "PC_HEALTHXP": 32.863,
+      "PC_GDP": 2.394,
+      "USD_CAP": 492.437,
+      "TOTAL_SPEND": 4935.52
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2010,
+      "PC_HEALTHXP": 33.273,
+      "PC_GDP": 2.515,
+      "USD_CAP": 539.855,
+      "TOTAL_SPEND": 5398.56
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2011,
+      "PC_HEALTHXP": 35.001,
+      "PC_GDP": 2.653,
+      "USD_CAP": 603.042,
+      "TOTAL_SPEND": 6013.37
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2012,
+      "PC_HEALTHXP": 32.579,
+      "PC_GDP": 2.443,
+      "USD_CAP": 561.746,
+      "TOTAL_SPEND": 5572.72
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2013,
+      "PC_HEALTHXP": 30.293,
+      "PC_GDP": 2.208,
+      "USD_CAP": 537.976,
+      "TOTAL_SPEND": 5322.24
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2014,
+      "PC_HEALTHXP": 30.173,
+      "PC_GDP": 2.155,
+      "USD_CAP": 549.292,
+      "TOTAL_SPEND": 5419.57
+    },
+    {
+      "LOCATION": "HUN",
+      "TIME": 2015,
+      "PC_HEALTHXP": 29.215,
+      "PC_GDP": 2.114,
+      "USD_CAP": 558.878,
+      "TOTAL_SPEND": 5501.05
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1970,
+      "PC_HEALTHXP": 17.13,
+      "PC_GDP": 0.792,
+      "USD_CAP": 30.757,
+      "TOTAL_SPEND": 6.29
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1971,
+      "PC_HEALTHXP": 17.31,
+      "PC_GDP": 0.874,
+      "USD_CAP": 40.03,
+      "TOTAL_SPEND": 8.25
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1972,
+      "PC_HEALTHXP": 17.838,
+      "PC_GDP": 0.883,
+      "USD_CAP": 44.143,
+      "TOTAL_SPEND": 9.23
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1973,
+      "PC_HEALTHXP": 16.597,
+      "PC_GDP": 0.753,
+      "USD_CAP": 41.747,
+      "TOTAL_SPEND": 8.86
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1974,
+      "PC_HEALTHXP": 13.78,
+      "PC_GDP": 0.714,
+      "USD_CAP": 44.978,
+      "TOTAL_SPEND": 9.68
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1975,
+      "PC_HEALTHXP": 16.23,
+      "PC_GDP": 0.908,
+      "USD_CAP": 62.126,
+      "TOTAL_SPEND": 13.54
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1976,
+      "PC_HEALTHXP": 14.845,
+      "PC_GDP": 0.779,
+      "USD_CAP": 59.009,
+      "TOTAL_SPEND": 12.99
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1977,
+      "PC_HEALTHXP": 14.553,
+      "PC_GDP": 0.757,
+      "USD_CAP": 65.7,
+      "TOTAL_SPEND": 14.57
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1978,
+      "PC_HEALTHXP": 14.505,
+      "PC_GDP": 0.811,
+      "USD_CAP": 79.316,
+      "TOTAL_SPEND": 17.73
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1979,
+      "PC_HEALTHXP": 13.522,
+      "PC_GDP": 0.855,
+      "USD_CAP": 93.934,
+      "TOTAL_SPEND": 21.2
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1980,
+      "PC_HEALTHXP": 16.628,
+      "PC_GDP": 0.973,
+      "USD_CAP": 122.026,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1981,
+      "PC_HEALTHXP": 15.576,
+      "PC_GDP": 0.932,
+      "USD_CAP": 131.624,
+      "TOTAL_SPEND": 30.37
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1982,
+      "PC_HEALTHXP": 16.104,
+      "PC_GDP": 1.009,
+      "USD_CAP": 152.618,
+      "TOTAL_SPEND": 35.69
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1983,
+      "PC_HEALTHXP": 18.211,
+      "PC_GDP": 1.251,
+      "USD_CAP": 189.941,
+      "TOTAL_SPEND": 45.01
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1984,
+      "PC_HEALTHXP": 17.058,
+      "PC_GDP": 1.105,
+      "USD_CAP": 178.928,
+      "TOTAL_SPEND": 42.86
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1985,
+      "PC_HEALTHXP": 17.414,
+      "PC_GDP": 1.168,
+      "USD_CAP": 200.058,
+      "TOTAL_SPEND": 48.3
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1986,
+      "PC_HEALTHXP": 16.508,
+      "PC_GDP": 1.182,
+      "USD_CAP": 217.823,
+      "TOTAL_SPEND": 52.97
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1987,
+      "PC_HEALTHXP": 15.35,
+      "PC_GDP": 1.125,
+      "USD_CAP": 228.429,
+      "TOTAL_SPEND": 56.16
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1988,
+      "PC_HEALTHXP": 14.692,
+      "PC_GDP": 1.162,
+      "USD_CAP": 240.078,
+      "TOTAL_SPEND": 59.96
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1989,
+      "PC_HEALTHXP": 15.347,
+      "PC_GDP": 1.187,
+      "USD_CAP": 252.262,
+      "TOTAL_SPEND": 63.78
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1990,
+      "PC_HEALTHXP": 13.98,
+      "PC_GDP": 1.032,
+      "USD_CAP": 228.449,
+      "TOTAL_SPEND": 58.21
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1991,
+      "PC_HEALTHXP": 12.775,
+      "PC_GDP": 0.966,
+      "USD_CAP": 217.79,
+      "TOTAL_SPEND": 56.15
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1992,
+      "PC_HEALTHXP": 13.313,
+      "PC_GDP": 1.033,
+      "USD_CAP": 227.372,
+      "TOTAL_SPEND": 59.36
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1993,
+      "PC_HEALTHXP": 12.78,
+      "PC_GDP": 1.003,
+      "USD_CAP": 226.653,
+      "TOTAL_SPEND": 59.77
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1994,
+      "PC_HEALTHXP": 13.419,
+      "PC_GDP": 1.03,
+      "USD_CAP": 244.128,
+      "TOTAL_SPEND": 64.94
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1995,
+      "PC_HEALTHXP": 13.794,
+      "PC_GDP": 1.076,
+      "USD_CAP": 259.171,
+      "TOTAL_SPEND": 69.32
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1996,
+      "PC_HEALTHXP": 14.277,
+      "PC_GDP": 1.118,
+      "USD_CAP": 279.501,
+      "TOTAL_SPEND": 75.16
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1997,
+      "PC_HEALTHXP": 15.489,
+      "PC_GDP": 1.198,
+      "USD_CAP": 322.933,
+      "TOTAL_SPEND": 87.56
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1998,
+      "PC_HEALTHXP": 14.498,
+      "PC_GDP": 1.232,
+      "USD_CAP": 352.048,
+      "TOTAL_SPEND": 96.48
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 1999,
+      "PC_HEALTHXP": 14.402,
+      "PC_GDP": 1.282,
+      "USD_CAP": 376.679,
+      "TOTAL_SPEND": 104.48
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2000,
+      "PC_HEALTHXP": 14.832,
+      "PC_GDP": 1.336,
+      "USD_CAP": 394.133,
+      "TOTAL_SPEND": 110.83
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2001,
+      "PC_HEALTHXP": 14.384,
+      "PC_GDP": 1.277,
+      "USD_CAP": 403.914,
+      "TOTAL_SPEND": 115.1
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2002,
+      "PC_HEALTHXP": 14.366,
+      "PC_GDP": 1.377,
+      "USD_CAP": 443.416,
+      "TOTAL_SPEND": 127.49
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2003,
+      "PC_HEALTHXP": 15.241,
+      "PC_GDP": 1.536,
+      "USD_CAP": 496.023,
+      "TOTAL_SPEND": 143.61
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2004,
+      "PC_HEALTHXP": 15.39,
+      "PC_GDP": 1.471,
+      "USD_CAP": 519.038,
+      "TOTAL_SPEND": 151.6
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2005,
+      "PC_HEALTHXP": 14.433,
+      "PC_GDP": 1.33,
+      "USD_CAP": 491.556,
+      "TOTAL_SPEND": 145.86
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2006,
+      "PC_HEALTHXP": 14.218,
+      "PC_GDP": 1.268,
+      "USD_CAP": 491.067,
+      "TOTAL_SPEND": 149.18
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2007,
+      "PC_HEALTHXP": 13.505,
+      "PC_GDP": 1.178,
+      "USD_CAP": 479.64,
+      "TOTAL_SPEND": 149.44
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2008,
+      "PC_HEALTHXP": 14.572,
+      "PC_GDP": 1.27,
+      "USD_CAP": 542.052,
+      "TOTAL_SPEND": 172.05
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2009,
+      "PC_HEALTHXP": 15.665,
+      "PC_GDP": 1.419,
+      "USD_CAP": 582.697,
+      "TOTAL_SPEND": 185.59
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2010,
+      "PC_HEALTHXP": 15.813,
+      "PC_GDP": 1.393,
+      "USD_CAP": 535.019,
+      "TOTAL_SPEND": 170.16
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2011,
+      "PC_HEALTHXP": 15.148,
+      "PC_GDP": 1.309,
+      "USD_CAP": 516.634,
+      "TOTAL_SPEND": 164.81
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2012,
+      "PC_HEALTHXP": 14.454,
+      "PC_GDP": 1.256,
+      "USD_CAP": 508.582,
+      "TOTAL_SPEND": 163.11
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2013,
+      "PC_HEALTHXP": 13.531,
+      "PC_GDP": 1.177,
+      "USD_CAP": 501.667,
+      "TOTAL_SPEND": 162.42
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2014,
+      "PC_HEALTHXP": 12.581,
+      "PC_GDP": 1.105,
+      "USD_CAP": 489.466,
+      "TOTAL_SPEND": 160.24
+    },
+    {
+      "LOCATION": "ISL",
+      "TIME": 2015,
+      "PC_HEALTHXP": 12.126,
+      "PC_GDP": 1.044,
+      "USD_CAP": 497.84,
+      "TOTAL_SPEND": 164.69
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1975,
+      "PC_HEALTHXP": 14.749,
+      "PC_GDP": 0.973,
+      "USD_CAP": 38.758,
+      "TOTAL_SPEND": 123.62
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1976,
+      "PC_HEALTHXP": 14.869,
+      "PC_GDP": 0.957,
+      "USD_CAP": 40.184,
+      "TOTAL_SPEND": 130.12
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1977,
+      "PC_HEALTHXP": 14.717,
+      "PC_GDP": 0.903,
+      "USD_CAP": 42.979,
+      "TOTAL_SPEND": 141.07
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1978,
+      "PC_HEALTHXP": 14.189,
+      "PC_GDP": 0.917,
+      "USD_CAP": 49.346,
+      "TOTAL_SPEND": 164.28
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1979,
+      "PC_HEALTHXP": 13.191,
+      "PC_GDP": 0.897,
+      "USD_CAP": 53.145,
+      "TOTAL_SPEND": 179.3
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1980,
+      "PC_HEALTHXP": 11.707,
+      "PC_GDP": 0.878,
+      "USD_CAP": 57.809,
+      "TOTAL_SPEND": 197.29
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1981,
+      "PC_HEALTHXP": 10.527,
+      "PC_GDP": 0.747,
+      "USD_CAP": 54.904,
+      "TOTAL_SPEND": 189.58
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1982,
+      "PC_HEALTHXP": 10.546,
+      "PC_GDP": 0.733,
+      "USD_CAP": 57.985,
+      "TOTAL_SPEND": 202.12
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1983,
+      "PC_HEALTHXP": 10.115,
+      "PC_GDP": 0.705,
+      "USD_CAP": 57.469,
+      "TOTAL_SPEND": 201.75
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1984,
+      "PC_HEALTHXP": 10.509,
+      "PC_GDP": 0.716,
+      "USD_CAP": 62.663,
+      "TOTAL_SPEND": 221.35
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1985,
+      "PC_HEALTHXP": 10.539,
+      "PC_GDP": 0.72,
+      "USD_CAP": 66.917,
+      "TOTAL_SPEND": 236.76
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1986,
+      "PC_HEALTHXP": 11.044,
+      "PC_GDP": 0.744,
+      "USD_CAP": 70.226,
+      "TOTAL_SPEND": 248.58
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1987,
+      "PC_HEALTHXP": 11.546,
+      "PC_GDP": 0.744,
+      "USD_CAP": 75.344,
+      "TOTAL_SPEND": 266.72
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1988,
+      "PC_HEALTHXP": 12.019,
+      "PC_GDP": 0.737,
+      "USD_CAP": 81.637,
+      "TOTAL_SPEND": 287.77
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1989,
+      "PC_HEALTHXP": 12.994,
+      "PC_GDP": 0.748,
+      "USD_CAP": 91.424,
+      "TOTAL_SPEND": 320.99
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1990,
+      "PC_HEALTHXP": 12.777,
+      "PC_GDP": 0.717,
+      "USD_CAP": 98.423,
+      "TOTAL_SPEND": 345.86
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1991,
+      "PC_HEALTHXP": 11.995,
+      "PC_GDP": 0.727,
+      "USD_CAP": 104.543,
+      "TOTAL_SPEND": 369.48
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1992,
+      "PC_HEALTHXP": 11.891,
+      "PC_GDP": 0.752,
+      "USD_CAP": 113.484,
+      "TOTAL_SPEND": 403.82
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1993,
+      "PC_HEALTHXP": 11.968,
+      "PC_GDP": 0.762,
+      "USD_CAP": 120.429,
+      "TOTAL_SPEND": 430.69
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1994,
+      "PC_HEALTHXP": 12.097,
+      "PC_GDP": 0.758,
+      "USD_CAP": 128.871,
+      "TOTAL_SPEND": 462.7
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1995,
+      "PC_HEALTHXP": 12.044,
+      "PC_GDP": 0.735,
+      "USD_CAP": 139.028,
+      "TOTAL_SPEND": 501.73
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1996,
+      "PC_HEALTHXP": 12.882,
+      "PC_GDP": 0.763,
+      "USD_CAP": 156.317,
+      "TOTAL_SPEND": 568.6
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1997,
+      "PC_HEALTHXP": 12.558,
+      "PC_GDP": 0.734,
+      "USD_CAP": 165.977,
+      "TOTAL_SPEND": 609.83
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1998,
+      "PC_HEALTHXP": 13.213,
+      "PC_GDP": 0.745,
+      "USD_CAP": 186.457,
+      "TOTAL_SPEND": 692.26
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 1999,
+      "PC_HEALTHXP": 13.97,
+      "PC_GDP": 0.78,
+      "USD_CAP": 210.83,
+      "TOTAL_SPEND": 791.62
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2000,
+      "PC_HEALTHXP": 14.176,
+      "PC_GDP": 0.837,
+      "USD_CAP": 252.441,
+      "TOTAL_SPEND": 960.58
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2001,
+      "PC_HEALTHXP": 14.435,
+      "PC_GDP": 0.924,
+      "USD_CAP": 301.335,
+      "TOTAL_SPEND": 1165.03
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2002,
+      "PC_HEALTHXP": 14.779,
+      "PC_GDP": 0.987,
+      "USD_CAP": 347.346,
+      "TOTAL_SPEND": 1365.75
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2003,
+      "PC_HEALTHXP": 15.088,
+      "PC_GDP": 1.057,
+      "USD_CAP": 383.182,
+      "TOTAL_SPEND": 1531.39
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2004,
+      "PC_HEALTHXP": 15.655,
+      "PC_GDP": 1.131,
+      "USD_CAP": 437.694,
+      "TOTAL_SPEND": 1781.53
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2005,
+      "PC_HEALTHXP": 15.473,
+      "PC_GDP": 1.183,
+      "USD_CAP": 478.511,
+      "TOTAL_SPEND": 1990.56
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2006,
+      "PC_HEALTHXP": 16.465,
+      "PC_GDP": 1.237,
+      "USD_CAP": 547.146,
+      "TOTAL_SPEND": 2338.28
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2007,
+      "PC_HEALTHXP": 16.356,
+      "PC_GDP": 1.276,
+      "USD_CAP": 596.486,
+      "TOTAL_SPEND": 2623.91
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2008,
+      "PC_HEALTHXP": 15.953,
+      "PC_GDP": 1.453,
+      "USD_CAP": 643.036,
+      "TOTAL_SPEND": 2886.94
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2009,
+      "PC_HEALTHXP": 15.135,
+      "PC_GDP": 1.591,
+      "USD_CAP": 661.276,
+      "TOTAL_SPEND": 2999.13
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2010,
+      "PC_HEALTHXP": 14.815,
+      "PC_GDP": 1.562,
+      "USD_CAP": 674.956,
+      "TOTAL_SPEND": 3077.9
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2011,
+      "PC_HEALTHXP": 14.415,
+      "PC_GDP": 1.432,
+      "USD_CAP": 651.311,
+      "TOTAL_SPEND": 2980.92
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2012,
+      "PC_HEALTHXP": 14.091,
+      "PC_GDP": 1.418,
+      "USD_CAP": 659.933,
+      "TOTAL_SPEND": 3027.04
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2013,
+      "PC_HEALTHXP": 14.513,
+      "PC_GDP": 1.512,
+      "USD_CAP": 730.484,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2014,
+      "PC_HEALTHXP": 14.064,
+      "PC_GDP": 1.394,
+      "USD_CAP": 714.747,
+      "TOTAL_SPEND": 3300.15
+    },
+    {
+      "LOCATION": "IRL",
+      "TIME": 2015,
+      "PC_HEALTHXP": 12.97,
+      "PC_GDP": 1.007,
+      "USD_CAP": 684.269,
+      "TOTAL_SPEND": 3200.21
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1988,
+      "PC_HEALTHXP": 23.07,
+      "PC_GDP": 1.539,
+      "USD_CAP": 251.631,
+      "TOTAL_SPEND": 14249.68
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1989,
+      "PC_HEALTHXP": 23.294,
+      "PC_GDP": 1.551,
+      "USD_CAP": 272.149,
+      "TOTAL_SPEND": 15423.17
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1990,
+      "PC_HEALTHXP": 21.43,
+      "PC_GDP": 1.503,
+      "USD_CAP": 278.813,
+      "TOTAL_SPEND": 15814.06
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1991,
+      "PC_HEALTHXP": 20.922,
+      "PC_GDP": 1.517,
+      "USD_CAP": 294.948,
+      "TOTAL_SPEND": 16740.81
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1992,
+      "PC_HEALTHXP": 21.474,
+      "PC_GDP": 1.529,
+      "USD_CAP": 306.334,
+      "TOTAL_SPEND": 17398.88
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1993,
+      "PC_HEALTHXP": 20.351,
+      "PC_GDP": 1.442,
+      "USD_CAP": 293.246,
+      "TOTAL_SPEND": 16665.7
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1994,
+      "PC_HEALTHXP": 20.117,
+      "PC_GDP": 1.395,
+      "USD_CAP": 295.781,
+      "TOTAL_SPEND": 16813.2
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1995,
+      "PC_HEALTHXP": 19.534,
+      "PC_GDP": 1.342,
+      "USD_CAP": 298.92,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1996,
+      "PC_HEALTHXP": 19.968,
+      "PC_GDP": 1.39,
+      "USD_CAP": 319.386,
+      "TOTAL_SPEND": 18160.38
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1997,
+      "PC_HEALTHXP": 20.183,
+      "PC_GDP": 1.458,
+      "USD_CAP": 347.054,
+      "TOTAL_SPEND": 19744.03
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1998,
+      "PC_HEALTHXP": 20.643,
+      "PC_GDP": 1.5,
+      "USD_CAP": 373.922,
+      "TOTAL_SPEND": 21278.68
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 1999,
+      "PC_HEALTHXP": 21.177,
+      "PC_GDP": 1.554,
+      "USD_CAP": 396.645,
+      "TOTAL_SPEND": 22575.57
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2000,
+      "PC_HEALTHXP": 21.158,
+      "PC_GDP": 1.604,
+      "USD_CAP": 433.143,
+      "TOTAL_SPEND": 24664.08
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2001,
+      "PC_HEALTHXP": 21.92,
+      "PC_GDP": 1.703,
+      "USD_CAP": 476.761,
+      "TOTAL_SPEND": 27163.03
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2002,
+      "PC_HEALTHXP": 21.865,
+      "PC_GDP": 1.726,
+      "USD_CAP": 494.302,
+      "TOTAL_SPEND": 28204.38
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2003,
+      "PC_HEALTHXP": 21.375,
+      "PC_GDP": 1.679,
+      "USD_CAP": 488.266,
+      "TOTAL_SPEND": 27984.09
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2004,
+      "PC_HEALTHXP": 20.996,
+      "PC_GDP": 1.719,
+      "USD_CAP": 506.591,
+      "TOTAL_SPEND": 29222.87
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2005,
+      "PC_HEALTHXP": 20.37,
+      "PC_GDP": 1.703,
+      "USD_CAP": 511.842,
+      "TOTAL_SPEND": 29671.22
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2006,
+      "PC_HEALTHXP": 20.124,
+      "PC_GDP": 1.702,
+      "USD_CAP": 550.732,
+      "TOTAL_SPEND": 32021.75
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2007,
+      "PC_HEALTHXP": 20.002,
+      "PC_GDP": 1.633,
+      "USD_CAP": 554.861,
+      "TOTAL_SPEND": 32425.14
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2008,
+      "PC_HEALTHXP": 19.185,
+      "PC_GDP": 1.643,
+      "USD_CAP": 581.535,
+      "TOTAL_SPEND": 34209.8
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2009,
+      "PC_HEALTHXP": 18.964,
+      "PC_GDP": 1.702,
+      "USD_CAP": 588.13,
+      "TOTAL_SPEND": 34755.76
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2010,
+      "PC_HEALTHXP": 18.75,
+      "PC_GDP": 1.679,
+      "USD_CAP": 588.861,
+      "TOTAL_SPEND": 34906.16
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2011,
+      "PC_HEALTHXP": 18.544,
+      "PC_GDP": 1.638,
+      "USD_CAP": 595.488,
+      "TOTAL_SPEND": 35359.75
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2012,
+      "PC_HEALTHXP": 16.571,
+      "PC_GDP": 1.484,
+      "USD_CAP": 537.784,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2013,
+      "PC_HEALTHXP": 16.98,
+      "PC_GDP": 1.52,
+      "USD_CAP": 549.218,
+      "TOTAL_SPEND": 33081.57
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2014,
+      "PC_HEALTHXP": 16.944,
+      "PC_GDP": 1.527,
+      "USD_CAP": 554.181,
+      "TOTAL_SPEND": 33688.19
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2015,
+      "PC_HEALTHXP": 17.932,
+      "PC_GDP": 1.613,
+      "USD_CAP": 601.018,
+      "TOTAL_SPEND": 36500.17
+    },
+    {
+      "LOCATION": "ITA",
+      "TIME": 2016,
+      "PC_HEALTHXP": 17.831,
+      "PC_GDP": 1.594,
+      "USD_CAP": 604.675,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1980,
+      "PC_HEALTHXP": 21.181,
+      "PC_GDP": 1.33,
+      "USD_CAP": 115.359,
+      "TOTAL_SPEND": 13471.85
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1984,
+      "PC_HEALTHXP": 19.458,
+      "PC_GDP": 1.247,
+      "USD_CAP": 152.536,
+      "TOTAL_SPEND": 18307.07
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1985,
+      "PC_HEALTHXP": 17.973,
+      "PC_GDP": 1.163,
+      "USD_CAP": 155.171,
+      "TOTAL_SPEND": 18737.52
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1986,
+      "PC_HEALTHXP": 18.892,
+      "PC_GDP": 1.214,
+      "USD_CAP": 169.011,
+      "TOTAL_SPEND": 20533.48
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1987,
+      "PC_HEALTHXP": 20.271,
+      "PC_GDP": 1.305,
+      "USD_CAP": 192.985,
+      "TOTAL_SPEND": 23561.73
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1988,
+      "PC_HEALTHXP": 20.631,
+      "PC_GDP": 1.268,
+      "USD_CAP": 207.202,
+      "TOTAL_SPEND": 25405.66
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1989,
+      "PC_HEALTHXP": 22.319,
+      "PC_GDP": 1.317,
+      "USD_CAP": 234.663,
+      "TOTAL_SPEND": 28890.77
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1990,
+      "PC_HEALTHXP": 21.422,
+      "PC_GDP": 1.23,
+      "USD_CAP": 239.226,
+      "TOTAL_SPEND": 29553.26
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1991,
+      "PC_HEALTHXP": 22.868,
+      "PC_GDP": 1.323,
+      "USD_CAP": 273.505,
+      "TOTAL_SPEND": 33893.01
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1992,
+      "PC_HEALTHXP": 22.009,
+      "PC_GDP": 1.33,
+      "USD_CAP": 282.452,
+      "TOTAL_SPEND": 35088.73
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1993,
+      "PC_HEALTHXP": 22.255,
+      "PC_GDP": 1.405,
+      "USD_CAP": 305.192,
+      "TOTAL_SPEND": 38007.39
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1994,
+      "PC_HEALTHXP": 21.057,
+      "PC_GDP": 1.386,
+      "USD_CAP": 309.352,
+      "TOTAL_SPEND": 38656.94
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1995,
+      "PC_HEALTHXP": 21.039,
+      "PC_GDP": 1.322,
+      "USD_CAP": 309.164,
+      "TOTAL_SPEND": 38781.22
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1996,
+      "PC_HEALTHXP": 21.039,
+      "PC_GDP": 1.288,
+      "USD_CAP": 315.832,
+      "TOTAL_SPEND": 39718.08
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1997,
+      "PC_HEALTHXP": 19.496,
+      "PC_GDP": 1.248,
+      "USD_CAP": 313.426,
+      "TOTAL_SPEND": 39509.54
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1998,
+      "PC_HEALTHXP": 17.942,
+      "PC_GDP": 1.187,
+      "USD_CAP": 297.259,
+      "TOTAL_SPEND": 37573.54
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 1999,
+      "PC_HEALTHXP": 18.152,
+      "PC_GDP": 1.266,
+      "USD_CAP": 320.554,
+      "TOTAL_SPEND": 40592.07
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2000,
+      "PC_HEALTHXP": 18.406,
+      "PC_GDP": 1.316,
+      "USD_CAP": 352.442,
+      "TOTAL_SPEND": 44704.8
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2001,
+      "PC_HEALTHXP": 18.859,
+      "PC_GDP": 1.388,
+      "USD_CAP": 380.919,
+      "TOTAL_SPEND": 48433.47
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2002,
+      "PC_HEALTHXP": 18.64,
+      "PC_GDP": 1.393,
+      "USD_CAP": 392.312,
+      "TOTAL_SPEND": 49998.2
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2003,
+      "PC_HEALTHXP": 19.527,
+      "PC_GDP": 1.486,
+      "USD_CAP": 429.378,
+      "TOTAL_SPEND": 54839.3
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2004,
+      "PC_HEALTHXP": 19.459,
+      "PC_GDP": 1.49,
+      "USD_CAP": 452.975,
+      "TOTAL_SPEND": 57872.54
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2005,
+      "PC_HEALTHXP": 19.794,
+      "PC_GDP": 1.54,
+      "USD_CAP": 487.681,
+      "TOTAL_SPEND": 62312.46
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2006,
+      "PC_HEALTHXP": 19.789,
+      "PC_GDP": 1.545,
+      "USD_CAP": 510.598,
+      "TOTAL_SPEND": 65282
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2007,
+      "PC_HEALTHXP": 19.972,
+      "PC_GDP": 1.576,
+      "USD_CAP": 544.008,
+      "TOTAL_SPEND": 69633.57
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2008,
+      "PC_HEALTHXP": 19.9,
+      "PC_GDP": 1.632,
+      "USD_CAP": 567.72,
+      "TOTAL_SPEND": 72703.93
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2009,
+      "PC_HEALTHXP": 20.982,
+      "PC_GDP": 1.901,
+      "USD_CAP": 629.162,
+      "TOTAL_SPEND": 80562.31
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2010,
+      "PC_HEALTHXP": 20.473,
+      "PC_GDP": 1.875,
+      "USD_CAP": 656.131,
+      "TOTAL_SPEND": 84030.7
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2011,
+      "PC_HEALTHXP": 18.911,
+      "PC_GDP": 2.008,
+      "USD_CAP": 718.256,
+      "TOTAL_SPEND": 91816.82
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2012,
+      "PC_HEALTHXP": 18.887,
+      "PC_GDP": 2.038,
+      "USD_CAP": 758.189,
+      "TOTAL_SPEND": 96766.9
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2013,
+      "PC_HEALTHXP": 18.854,
+      "PC_GDP": 2.035,
+      "USD_CAP": 793.169,
+      "TOTAL_SPEND": 101085.42
+    },
+    {
+      "LOCATION": "JPN",
+      "TIME": 2014,
+      "PC_HEALTHXP": 18.803,
+      "PC_GDP": 2.037,
+      "USD_CAP": 802.733,
+      "TOTAL_SPEND": 102168.65
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1970,
+      "PC_HEALTHXP": 21.38,
+      "PC_GDP": 0.551,
+      "USD_CAP": 3.336,
+      "TOTAL_SPEND": 107.56
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1971,
+      "PC_HEALTHXP": 20.492,
+      "PC_GDP": 0.459,
+      "USD_CAP": 3.16,
+      "TOTAL_SPEND": 103.91
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1972,
+      "PC_HEALTHXP": 20.99,
+      "PC_GDP": 0.428,
+      "USD_CAP": 3.237,
+      "TOTAL_SPEND": 108.46
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1973,
+      "PC_HEALTHXP": 20.916,
+      "PC_GDP": 0.366,
+      "USD_CAP": 3.289,
+      "TOTAL_SPEND": 112.17
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1974,
+      "PC_HEALTHXP": 20.773,
+      "PC_GDP": 0.316,
+      "USD_CAP": 3.331,
+      "TOTAL_SPEND": 115.56
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1975,
+      "PC_HEALTHXP": 21.112,
+      "PC_GDP": 0.487,
+      "USD_CAP": 5.949,
+      "TOTAL_SPEND": 209.89
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1976,
+      "PC_HEALTHXP": 21.513,
+      "PC_GDP": 0.502,
+      "USD_CAP": 7.199,
+      "TOTAL_SPEND": 258.07
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1977,
+      "PC_HEALTHXP": 20.923,
+      "PC_GDP": 0.463,
+      "USD_CAP": 7.803,
+      "TOTAL_SPEND": 284.12
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1978,
+      "PC_HEALTHXP": 21.374,
+      "PC_GDP": 0.514,
+      "USD_CAP": 10.113,
+      "TOTAL_SPEND": 373.87
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1979,
+      "PC_HEALTHXP": 21.569,
+      "PC_GDP": 0.676,
+      "USD_CAP": 15.4,
+      "TOTAL_SPEND": 578.03
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1980,
+      "PC_HEALTHXP": 21.476,
+      "PC_GDP": 0.743,
+      "USD_CAP": 17.856,
+      "TOTAL_SPEND": 680.74
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1981,
+      "PC_HEALTHXP": 21.927,
+      "PC_GDP": 0.789,
+      "USD_CAP": 21.873,
+      "TOTAL_SPEND": 846.99
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1982,
+      "PC_HEALTHXP": 21.933,
+      "PC_GDP": 0.78,
+      "USD_CAP": 24.489,
+      "TOTAL_SPEND": 963.06
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1983,
+      "PC_HEALTHXP": 21.959,
+      "PC_GDP": 0.757,
+      "USD_CAP": 27.584,
+      "TOTAL_SPEND": 1100.89
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1984,
+      "PC_HEALTHXP": 21.69,
+      "PC_GDP": 0.711,
+      "USD_CAP": 29.258,
+      "TOTAL_SPEND": 1182.2
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1985,
+      "PC_HEALTHXP": 21.788,
+      "PC_GDP": 0.723,
+      "USD_CAP": 32.732,
+      "TOTAL_SPEND": 1335.65
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1986,
+      "PC_HEALTHXP": 21.817,
+      "PC_GDP": 0.696,
+      "USD_CAP": 35.443,
+      "TOTAL_SPEND": 1460.74
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1987,
+      "PC_HEALTHXP": 21.843,
+      "PC_GDP": 0.679,
+      "USD_CAP": 39.471,
+      "TOTAL_SPEND": 1642.85
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1988,
+      "PC_HEALTHXP": 21.54,
+      "PC_GDP": 0.699,
+      "USD_CAP": 46.594,
+      "TOTAL_SPEND": 1958.4
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1989,
+      "PC_HEALTHXP": 21.901,
+      "PC_GDP": 0.817,
+      "USD_CAP": 59.994,
+      "TOTAL_SPEND": 2546.69
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1990,
+      "PC_HEALTHXP": 21.635,
+      "PC_GDP": 0.796,
+      "USD_CAP": 65.887,
+      "TOTAL_SPEND": 2824.53
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1991,
+      "PC_HEALTHXP": 21.727,
+      "PC_GDP": 0.765,
+      "USD_CAP": 71.465,
+      "TOTAL_SPEND": 3094.13
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1992,
+      "PC_HEALTHXP": 21.187,
+      "PC_GDP": 0.772,
+      "USD_CAP": 77.531,
+      "TOTAL_SPEND": 3391.82
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1993,
+      "PC_HEALTHXP": 21.812,
+      "PC_GDP": 0.776,
+      "USD_CAP": 84.383,
+      "TOTAL_SPEND": 3729.28
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1994,
+      "PC_HEALTHXP": 22.391,
+      "PC_GDP": 0.769,
+      "USD_CAP": 92.316,
+      "TOTAL_SPEND": 4121.13
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1995,
+      "PC_HEALTHXP": 22.834,
+      "PC_GDP": 0.786,
+      "USD_CAP": 104.456,
+      "TOTAL_SPEND": 4710.23
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1996,
+      "PC_HEALTHXP": 23.041,
+      "PC_GDP": 0.835,
+      "USD_CAP": 120.499,
+      "TOTAL_SPEND": 5485.68
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1997,
+      "PC_HEALTHXP": 22.989,
+      "PC_GDP": 0.829,
+      "USD_CAP": 127.733,
+      "TOTAL_SPEND": 5869.79
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1998,
+      "PC_HEALTHXP": 22.373,
+      "PC_GDP": 0.837,
+      "USD_CAP": 122.339,
+      "TOTAL_SPEND": 5662.64
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 1999,
+      "PC_HEALTHXP": 22.44,
+      "PC_GDP": 0.885,
+      "USD_CAP": 145.054,
+      "TOTAL_SPEND": 6761.94
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2000,
+      "PC_HEALTHXP": 24.454,
+      "PC_GDP": 0.978,
+      "USD_CAP": 176.815,
+      "TOTAL_SPEND": 8311.74
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2001,
+      "PC_HEALTHXP": 26.752,
+      "PC_GDP": 1.211,
+      "USD_CAP": 232.254,
+      "TOTAL_SPEND": 11001.91
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2002,
+      "PC_HEALTHXP": 27.015,
+      "PC_GDP": 1.182,
+      "USD_CAP": 245.612,
+      "TOTAL_SPEND": 11702.12
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2003,
+      "PC_HEALTHXP": 29.38,
+      "PC_GDP": 1.397,
+      "USD_CAP": 298.593,
+      "TOTAL_SPEND": 14300.31
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2004,
+      "PC_HEALTHXP": 29.254,
+      "PC_GDP": 1.397,
+      "USD_CAP": 320.678,
+      "TOTAL_SPEND": 15419.01
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2005,
+      "PC_HEALTHXP": 28.402,
+      "PC_GDP": 1.443,
+      "USD_CAP": 349.272,
+      "TOTAL_SPEND": 16829.52
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2006,
+      "PC_HEALTHXP": 28.304,
+      "PC_GDP": 1.556,
+      "USD_CAP": 401.881,
+      "TOTAL_SPEND": 19466.43
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2007,
+      "PC_HEALTHXP": 27.062,
+      "PC_GDP": 1.532,
+      "USD_CAP": 426.283,
+      "TOTAL_SPEND": 20753.01
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2008,
+      "PC_HEALTHXP": 26.569,
+      "PC_GDP": 1.546,
+      "USD_CAP": 442.9,
+      "TOTAL_SPEND": 21726.33
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2009,
+      "PC_HEALTHXP": 26.122,
+      "PC_GDP": 1.662,
+      "USD_CAP": 470.691,
+      "TOTAL_SPEND": 23208.75
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2010,
+      "PC_HEALTHXP": 26.205,
+      "PC_GDP": 1.705,
+      "USD_CAP": 517.801,
+      "TOTAL_SPEND": 25659.17
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2011,
+      "PC_HEALTHXP": 25.755,
+      "PC_GDP": 1.689,
+      "USD_CAP": 527.496,
+      "TOTAL_SPEND": 26341.38
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2012,
+      "PC_HEALTHXP": 24.809,
+      "PC_GDP": 1.669,
+      "USD_CAP": 535.718,
+      "TOTAL_SPEND": 26892.96
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2013,
+      "PC_HEALTHXP": 23.622,
+      "PC_GDP": 1.631,
+      "USD_CAP": 531.999,
+      "TOTAL_SPEND": 26828.12
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2014,
+      "PC_HEALTHXP": 22.87,
+      "PC_GDP": 1.629,
+      "USD_CAP": 548.01,
+      "TOTAL_SPEND": 27809.68
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2015,
+      "PC_HEALTHXP": 21.427,
+      "PC_GDP": 1.584,
+      "USD_CAP": 543.152,
+      "TOTAL_SPEND": 27708.87
+    },
+    {
+      "LOCATION": "KOR",
+      "TIME": 2016,
+      "PC_HEALTHXP": 20.235,
+      "PC_GDP": 1.553,
+      "USD_CAP": 552.176,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 1995,
+      "PC_HEALTHXP": 12.038,
+      "PC_GDP": 0.642,
+      "USD_CAP": 267.785,
+      "TOTAL_SPEND": 109.42
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 1996,
+      "PC_HEALTHXP": 11.524,
+      "PC_GDP": 0.616,
+      "USD_CAP": 268.172,
+      "TOTAL_SPEND": 111.08
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 1997,
+      "PC_HEALTHXP": 12.647,
+      "PC_GDP": 0.664,
+      "USD_CAP": 299.201,
+      "TOTAL_SPEND": 125.5
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 1998,
+      "PC_HEALTHXP": 12.309,
+      "PC_GDP": 0.668,
+      "USD_CAP": 311.45,
+      "TOTAL_SPEND": 132.27
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 1999,
+      "PC_HEALTHXP": 11.965,
+      "PC_GDP": 0.661,
+      "USD_CAP": 350.872,
+      "TOTAL_SPEND": 151.04
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2000,
+      "PC_HEALTHXP": 11.036,
+      "PC_GDP": 0.651,
+      "USD_CAP": 375.816,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2001,
+      "PC_HEALTHXP": 10.958,
+      "PC_GDP": 0.702,
+      "USD_CAP": 409.75,
+      "TOTAL_SPEND": 180.91
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2002,
+      "PC_HEALTHXP": 10.879,
+      "PC_GDP": 0.733,
+      "USD_CAP": 448.58,
+      "TOTAL_SPEND": 200.15
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2003,
+      "PC_HEALTHXP": 10.965,
+      "PC_GDP": 0.764,
+      "USD_CAP": 478.191,
+      "TOTAL_SPEND": 215.97
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2004,
+      "PC_HEALTHXP": 10.412,
+      "PC_GDP": 0.765,
+      "USD_CAP": 510.874,
+      "TOTAL_SPEND": 234.03
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2005,
+      "PC_HEALTHXP": 10.208,
+      "PC_GDP": 0.733,
+      "USD_CAP": 523.189,
+      "TOTAL_SPEND": 243.37
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2006,
+      "PC_HEALTHXP": 10.198,
+      "PC_GDP": 0.684,
+      "USD_CAP": 560.575,
+      "TOTAL_SPEND": 264.95
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2007,
+      "PC_HEALTHXP": 10.673,
+      "PC_GDP": 0.665,
+      "USD_CAP": 588.312,
+      "TOTAL_SPEND": 282.39
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2008,
+      "PC_HEALTHXP": 10.226,
+      "PC_GDP": 0.669,
+      "USD_CAP": 611.498,
+      "TOTAL_SPEND": 298.81
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2009,
+      "PC_HEALTHXP": 9.86,
+      "PC_GDP": 0.724,
+      "USD_CAP": 630.377,
+      "TOTAL_SPEND": 313.79
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2010,
+      "PC_HEALTHXP": 9.668,
+      "PC_GDP": 0.68,
+      "USD_CAP": 617.448,
+      "TOTAL_SPEND": 313.02
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2011,
+      "PC_HEALTHXP": 8.877,
+      "PC_GDP": 0.543,
+      "USD_CAP": 529.962,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2012,
+      "PC_HEALTHXP": 8.56,
+      "PC_GDP": 0.563,
+      "USD_CAP": 548.101,
+      "TOTAL_SPEND": 291.01
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2013,
+      "PC_HEALTHXP": 8.424,
+      "PC_GDP": 0.552,
+      "USD_CAP": 563.787,
+      "TOTAL_SPEND": 306.34
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2014,
+      "PC_HEALTHXP": 8.192,
+      "PC_GDP": 0.513,
+      "USD_CAP": 561.164,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "LUX",
+      "TIME": 2015,
+      "PC_HEALTHXP": 8.601,
+      "PC_GDP": 0.52,
+      "USD_CAP": 586.428,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 1999,
+      "PC_HEALTHXP": 18.935,
+      "PC_GDP": 0.931,
+      "USD_CAP": 85.022,
+      "TOTAL_SPEND": 8527.76
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2000,
+      "PC_HEALTHXP": 19.936,
+      "PC_GDP": 0.968,
+      "USD_CAP": 96.569,
+      "TOTAL_SPEND": 9822.97
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2001,
+      "PC_HEALTHXP": 19.889,
+      "PC_GDP": 1.045,
+      "USD_CAP": 105.263,
+      "TOTAL_SPEND": 10849.15
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2002,
+      "PC_HEALTHXP": 21.64,
+      "PC_GDP": 1.17,
+      "USD_CAP": 120.726,
+      "TOTAL_SPEND": 12598.44
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2003,
+      "PC_HEALTHXP": 35.894,
+      "PC_GDP": 2.134,
+      "USD_CAP": 230.651,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2004,
+      "PC_HEALTHXP": 35.048,
+      "PC_GDP": 2.12,
+      "USD_CAP": 242.481,
+      "TOTAL_SPEND": 25944.4
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2005,
+      "PC_HEALTHXP": 35.603,
+      "PC_GDP": 2.108,
+      "USD_CAP": 260.194,
+      "TOTAL_SPEND": 28223.82
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2006,
+      "PC_HEALTHXP": 34.725,
+      "PC_GDP": 1.984,
+      "USD_CAP": 267.984,
+      "TOTAL_SPEND": 29503
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2007,
+      "PC_HEALTHXP": 33.928,
+      "PC_GDP": 1.974,
+      "USD_CAP": 279.012,
+      "TOTAL_SPEND": 31203.68
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2008,
+      "PC_HEALTHXP": 33.143,
+      "PC_GDP": 1.904,
+      "USD_CAP": 280.672,
+      "TOTAL_SPEND": 31901.69
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2009,
+      "PC_HEALTHXP": 32.454,
+      "PC_GDP": 2.004,
+      "USD_CAP": 288.566,
+      "TOTAL_SPEND": 33330.88
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2010,
+      "PC_HEALTHXP": 31.497,
+      "PC_GDP": 1.896,
+      "USD_CAP": 287.049,
+      "TOTAL_SPEND": 33676.28
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2011,
+      "PC_HEALTHXP": 28.201,
+      "PC_GDP": 1.623,
+      "USD_CAP": 265.79,
+      "TOTAL_SPEND": 31652.94
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2012,
+      "PC_HEALTHXP": 28.765,
+      "PC_GDP": 1.704,
+      "USD_CAP": 289.344,
+      "TOTAL_SPEND": 34960.95
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2013,
+      "PC_HEALTHXP": 27.35,
+      "PC_GDP": 1.645,
+      "USD_CAP": 283.955,
+      "TOTAL_SPEND": 34794.7
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2014,
+      "PC_HEALTHXP": 27.011,
+      "PC_GDP": 1.537,
+      "USD_CAP": 277.229,
+      "TOTAL_SPEND": 34437.83
+    },
+    {
+      "LOCATION": "MEX",
+      "TIME": 2015,
+      "PC_HEALTHXP": 27.201,
+      "PC_GDP": 1.595,
+      "USD_CAP": 286.825,
+      "TOTAL_SPEND": 36108.67
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1972,
+      "PC_HEALTHXP": 11.687,
+      "PC_GDP": 0.661,
+      "USD_CAP": 33.085,
+      "TOTAL_SPEND": 440.98
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1973,
+      "PC_HEALTHXP": 11.175,
+      "PC_GDP": 0.637,
+      "USD_CAP": 35.249,
+      "TOTAL_SPEND": 473.72
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1974,
+      "PC_HEALTHXP": 10.327,
+      "PC_GDP": 0.609,
+      "USD_CAP": 37.995,
+      "TOTAL_SPEND": 514.64
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1975,
+      "PC_HEALTHXP": 9.894,
+      "PC_GDP": 0.617,
+      "USD_CAP": 41.766,
+      "TOTAL_SPEND": 570.79
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1976,
+      "PC_HEALTHXP": 9.525,
+      "PC_GDP": 0.588,
+      "USD_CAP": 43.654,
+      "TOTAL_SPEND": 601.29
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1977,
+      "PC_HEALTHXP": 9.183,
+      "PC_GDP": 0.575,
+      "USD_CAP": 45.94,
+      "TOTAL_SPEND": 636.55
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1978,
+      "PC_HEALTHXP": 8.954,
+      "PC_GDP": 0.571,
+      "USD_CAP": 49.667,
+      "TOTAL_SPEND": 692.44
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1979,
+      "PC_HEALTHXP": 8.645,
+      "PC_GDP": 0.566,
+      "USD_CAP": 53.934,
+      "TOTAL_SPEND": 757.14
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1980,
+      "PC_HEALTHXP": 8.412,
+      "PC_GDP": 0.555,
+      "USD_CAP": 59.091,
+      "TOTAL_SPEND": 836.13
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1981,
+      "PC_HEALTHXP": 8.378,
+      "PC_GDP": 0.56,
+      "USD_CAP": 64.284,
+      "TOTAL_SPEND": 915.87
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1982,
+      "PC_HEALTHXP": 8.651,
+      "PC_GDP": 0.598,
+      "USD_CAP": 71.663,
+      "TOTAL_SPEND": 1025.69
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1983,
+      "PC_HEALTHXP": 8.547,
+      "PC_GDP": 0.591,
+      "USD_CAP": 74.834,
+      "TOTAL_SPEND": 1075.15
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1984,
+      "PC_HEALTHXP": 9.244,
+      "PC_GDP": 0.614,
+      "USD_CAP": 82.585,
+      "TOTAL_SPEND": 1191.22
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1985,
+      "PC_HEALTHXP": 9.595,
+      "PC_GDP": 0.636,
+      "USD_CAP": 90.174,
+      "TOTAL_SPEND": 1306.77
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1986,
+      "PC_HEALTHXP": 9.969,
+      "PC_GDP": 0.67,
+      "USD_CAP": 98.99,
+      "TOTAL_SPEND": 1442.51
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1987,
+      "PC_HEALTHXP": 10.399,
+      "PC_GDP": 0.71,
+      "USD_CAP": 108.992,
+      "TOTAL_SPEND": 1598.37
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1988,
+      "PC_HEALTHXP": 10.472,
+      "PC_GDP": 0.707,
+      "USD_CAP": 115.517,
+      "TOTAL_SPEND": 1705.04
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1989,
+      "PC_HEALTHXP": 9.973,
+      "PC_GDP": 0.69,
+      "USD_CAP": 121.613,
+      "TOTAL_SPEND": 1805.82
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1990,
+      "PC_HEALTHXP": 10.168,
+      "PC_GDP": 0.72,
+      "USD_CAP": 136.103,
+      "TOTAL_SPEND": 2034.95
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1991,
+      "PC_HEALTHXP": 10.144,
+      "PC_GDP": 0.737,
+      "USD_CAP": 146.213,
+      "TOTAL_SPEND": 2203.4
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1992,
+      "PC_HEALTHXP": 10.996,
+      "PC_GDP": 0.822,
+      "USD_CAP": 168.349,
+      "TOTAL_SPEND": 2556.24
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1993,
+      "PC_HEALTHXP": 11.522,
+      "PC_GDP": 0.872,
+      "USD_CAP": 184.053,
+      "TOTAL_SPEND": 2814.24
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1994,
+      "PC_HEALTHXP": 11.406,
+      "PC_GDP": 0.85,
+      "USD_CAP": 187.466,
+      "TOTAL_SPEND": 2883.76
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1995,
+      "PC_HEALTHXP": 11.65,
+      "PC_GDP": 0.858,
+      "USD_CAP": 198.145,
+      "TOTAL_SPEND": 3063.12
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1996,
+      "PC_HEALTHXP": 11.627,
+      "PC_GDP": 0.848,
+      "USD_CAP": 205.342,
+      "TOTAL_SPEND": 3189.06
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1997,
+      "PC_HEALTHXP": 11.499,
+      "PC_GDP": 0.817,
+      "USD_CAP": 210.01,
+      "TOTAL_SPEND": 3278.39
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1998,
+      "PC_HEALTHXP": 11.76,
+      "PC_GDP": 0.844,
+      "USD_CAP": 230.684,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 1999,
+      "PC_HEALTHXP": 12.003,
+      "PC_GDP": 0.862,
+      "USD_CAP": 249.383,
+      "TOTAL_SPEND": 3943.27
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2000,
+      "PC_HEALTHXP": 12.285,
+      "PC_GDP": 0.867,
+      "USD_CAP": 273.687,
+      "TOTAL_SPEND": 4358.61
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2001,
+      "PC_HEALTHXP": 12.232,
+      "PC_GDP": 0.91,
+      "USD_CAP": 299.575,
+      "TOTAL_SPEND": 4807.03
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2002,
+      "PC_HEALTHXP": 12.018,
+      "PC_GDP": 0.956,
+      "USD_CAP": 324.925,
+      "TOTAL_SPEND": 5247.19
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2005,
+      "PC_HEALTHXP": 11.139,
+      "PC_GDP": 1.033,
+      "USD_CAP": 384.808,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2006,
+      "PC_HEALTHXP": 10.857,
+      "PC_GDP": 0.997,
+      "USD_CAP": 404.948,
+      "TOTAL_SPEND": 6619.32
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2007,
+      "PC_HEALTHXP": 11.004,
+      "PC_GDP": 1.016,
+      "USD_CAP": 441.76,
+      "TOTAL_SPEND": 7236.78
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2008,
+      "PC_HEALTHXP": 10.33,
+      "PC_GDP": 0.982,
+      "USD_CAP": 450.402,
+      "TOTAL_SPEND": 7407.13
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2009,
+      "PC_HEALTHXP": 9.983,
+      "PC_GDP": 1.022,
+      "USD_CAP": 450.574,
+      "TOTAL_SPEND": 7448.16
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2010,
+      "PC_HEALTHXP": 9.817,
+      "PC_GDP": 1.021,
+      "USD_CAP": 455.318,
+      "TOTAL_SPEND": 7565.29
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2011,
+      "PC_HEALTHXP": 9.53,
+      "PC_GDP": 1.003,
+      "USD_CAP": 461.879,
+      "TOTAL_SPEND": 7710.18
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2012,
+      "PC_HEALTHXP": 8.277,
+      "PC_GDP": 0.903,
+      "USD_CAP": 421.533,
+      "TOTAL_SPEND": 7062.77
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2013,
+      "PC_HEALTHXP": 7.757,
+      "PC_GDP": 0.845,
+      "USD_CAP": 411.405,
+      "TOTAL_SPEND": 6913.43
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2014,
+      "PC_HEALTHXP": 7.638,
+      "PC_GDP": 0.829,
+      "USD_CAP": 406.47,
+      "TOTAL_SPEND": 6855.12
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2015,
+      "PC_HEALTHXP": 7.865,
+      "PC_GDP": 0.841,
+      "USD_CAP": 416.594,
+      "TOTAL_SPEND": 7057.07
+    },
+    {
+      "LOCATION": "NLD",
+      "TIME": 2016,
+      "PC_HEALTHXP": 8.024,
+      "PC_GDP": 0.843,
+      "USD_CAP": 432.136,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1971,
+      "PC_HEALTHXP": 11.429,
+      "PC_GDP": 0.583,
+      "USD_CAP": 24.598,
+      "TOTAL_SPEND": 70.18
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1976,
+      "PC_HEALTHXP": 10.638,
+      "PC_GDP": 0.645,
+      "USD_CAP": 41.718,
+      "TOTAL_SPEND": 129.76
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1980,
+      "PC_HEALTHXP": 11.865,
+      "PC_GDP": 0.681,
+      "USD_CAP": 57.334,
+      "TOTAL_SPEND": 178.48
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1981,
+      "PC_HEALTHXP": 10.843,
+      "PC_GDP": 0.614,
+      "USD_CAP": 58.022,
+      "TOTAL_SPEND": 181.31
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1982,
+      "PC_HEALTHXP": 11.429,
+      "PC_GDP": 0.663,
+      "USD_CAP": 68.157,
+      "TOTAL_SPEND": 215.11
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1983,
+      "PC_HEALTHXP": 11.962,
+      "PC_GDP": 0.676,
+      "USD_CAP": 74.818,
+      "TOTAL_SPEND": 239.37
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1984,
+      "PC_HEALTHXP": 12.433,
+      "PC_GDP": 0.668,
+      "USD_CAP": 80.7,
+      "TOTAL_SPEND": 260.43
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1985,
+      "PC_HEALTHXP": 13.308,
+      "PC_GDP": 0.657,
+      "USD_CAP": 81.54,
+      "TOTAL_SPEND": 264.77
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1986,
+      "PC_HEALTHXP": 14.491,
+      "PC_GDP": 0.73,
+      "USD_CAP": 95.976,
+      "TOTAL_SPEND": 311.57
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1987,
+      "PC_HEALTHXP": 14.699,
+      "PC_GDP": 0.819,
+      "USD_CAP": 109.193,
+      "TOTAL_SPEND": 357.54
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1988,
+      "PC_HEALTHXP": 14.213,
+      "PC_GDP": 0.871,
+      "USD_CAP": 119.077,
+      "TOTAL_SPEND": 390.98
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1989,
+      "PC_HEALTHXP": 14.344,
+      "PC_GDP": 0.9,
+      "USD_CAP": 128.515,
+      "TOTAL_SPEND": 424
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1990,
+      "PC_HEALTHXP": 13.751,
+      "PC_GDP": 0.917,
+      "USD_CAP": 133.933,
+      "TOTAL_SPEND": 445.97
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1991,
+      "PC_HEALTHXP": 14.071,
+      "PC_GDP": 0.999,
+      "USD_CAP": 145.548,
+      "TOTAL_SPEND": 508.7
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1992,
+      "PC_HEALTHXP": 14.218,
+      "PC_GDP": 1.028,
+      "USD_CAP": 153.303,
+      "TOTAL_SPEND": 541.42
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1993,
+      "PC_HEALTHXP": 14.854,
+      "PC_GDP": 1.029,
+      "USD_CAP": 164.199,
+      "TOTAL_SPEND": 586.55
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1994,
+      "PC_HEALTHXP": 15.806,
+      "PC_GDP": 1.096,
+      "USD_CAP": 187.377,
+      "TOTAL_SPEND": 678.3
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1995,
+      "PC_HEALTHXP": 14.775,
+      "PC_GDP": 1.027,
+      "USD_CAP": 183.84,
+      "TOTAL_SPEND": 675.32
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1996,
+      "PC_HEALTHXP": 14.541,
+      "PC_GDP": 1.002,
+      "USD_CAP": 185.022,
+      "TOTAL_SPEND": 690.5
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 1997,
+      "PC_HEALTHXP": 14.355,
+      "PC_GDP": 1.019,
+      "USD_CAP": 194.962,
+      "TOTAL_SPEND": 737.21
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 2004,
+      "PC_HEALTHXP": 10.767,
+      "PC_GDP": 0.851,
+      "USD_CAP": 213.402,
+      "TOTAL_SPEND": 872.28
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 2005,
+      "PC_HEALTHXP": 10.697,
+      "PC_GDP": 0.885,
+      "USD_CAP": 227.251,
+      "TOTAL_SPEND": 939.43
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 2006,
+      "PC_HEALTHXP": 11.308,
+      "PC_GDP": 0.976,
+      "USD_CAP": 271.073,
+      "TOTAL_SPEND": 1134.33
+    },
+    {
+      "LOCATION": "NZL",
+      "TIME": 2007,
+      "PC_HEALTHXP": 10.394,
+      "PC_GDP": 0.865,
+      "USD_CAP": 254.188,
+      "TOTAL_SPEND": 1073.64
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1970,
+      "PC_HEALTHXP": 8.564,
+      "PC_GDP": 0.342,
+      "USD_CAP": 11.514,
+      "TOTAL_SPEND": 44.63
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1971,
+      "PC_HEALTHXP": 7.933,
+      "PC_GDP": 0.338,
+      "USD_CAP": 12.556,
+      "TOTAL_SPEND": 49.01
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1972,
+      "PC_HEALTHXP": 7.166,
+      "PC_GDP": 0.332,
+      "USD_CAP": 13.453,
+      "TOTAL_SPEND": 52.91
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1973,
+      "PC_HEALTHXP": 7.057,
+      "PC_GDP": 0.338,
+      "USD_CAP": 14.973,
+      "TOTAL_SPEND": 59.3
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1974,
+      "PC_HEALTHXP": 7.236,
+      "PC_GDP": 0.346,
+      "USD_CAP": 17.281,
+      "TOTAL_SPEND": 68.87
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1975,
+      "PC_HEALTHXP": 7.103,
+      "PC_GDP": 0.369,
+      "USD_CAP": 20.986,
+      "TOTAL_SPEND": 84.1
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1976,
+      "PC_HEALTHXP": 6.876,
+      "PC_GDP": 0.366,
+      "USD_CAP": 23.14,
+      "TOTAL_SPEND": 93.17
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1977,
+      "PC_HEALTHXP": 6.355,
+      "PC_GDP": 0.353,
+      "USD_CAP": 24.545,
+      "TOTAL_SPEND": 99.24
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1978,
+      "PC_HEALTHXP": 5.545,
+      "PC_GDP": 0.338,
+      "USD_CAP": 26.049,
+      "TOTAL_SPEND": 105.72
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1979,
+      "PC_HEALTHXP": 5.787,
+      "PC_GDP": 0.322,
+      "USD_CAP": 27.975,
+      "TOTAL_SPEND": 113.93
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1980,
+      "PC_HEALTHXP": 11.023,
+      "PC_GDP": 0.596,
+      "USD_CAP": 58.829,
+      "TOTAL_SPEND": 240.35
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1981,
+      "PC_HEALTHXP": 10.847,
+      "PC_GDP": 0.59,
+      "USD_CAP": 64.446,
+      "TOTAL_SPEND": 264.21
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1982,
+      "PC_HEALTHXP": 10.88,
+      "PC_GDP": 0.614,
+      "USD_CAP": 71.076,
+      "TOTAL_SPEND": 292.46
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1983,
+      "PC_HEALTHXP": 10.673,
+      "PC_GDP": 0.621,
+      "USD_CAP": 77.53,
+      "TOTAL_SPEND": 320.08
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1984,
+      "PC_HEALTHXP": 10.941,
+      "PC_GDP": 0.599,
+      "USD_CAP": 81.903,
+      "TOTAL_SPEND": 339.09
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1985,
+      "PC_HEALTHXP": 10.661,
+      "PC_GDP": 0.584,
+      "USD_CAP": 86.65,
+      "TOTAL_SPEND": 359.82
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1986,
+      "PC_HEALTHXP": 10.51,
+      "PC_GDP": 0.622,
+      "USD_CAP": 97.607,
+      "TOTAL_SPEND": 406.76
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1987,
+      "PC_HEALTHXP": 10.322,
+      "PC_GDP": 0.635,
+      "USD_CAP": 103.549,
+      "TOTAL_SPEND": 433.55
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1988,
+      "PC_HEALTHXP": 7.712,
+      "PC_GDP": 0.485,
+      "USD_CAP": 81.21,
+      "TOTAL_SPEND": 341.85
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1989,
+      "PC_HEALTHXP": 8.141,
+      "PC_GDP": 0.498,
+      "USD_CAP": 87.135,
+      "TOTAL_SPEND": 368.31
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1990,
+      "PC_HEALTHXP": 7.659,
+      "PC_GDP": 0.542,
+      "USD_CAP": 99.867,
+      "TOTAL_SPEND": 423.58
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1991,
+      "PC_HEALTHXP": 7.799,
+      "PC_GDP": 0.573,
+      "USD_CAP": 112.003,
+      "TOTAL_SPEND": 477.33
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1992,
+      "PC_HEALTHXP": 7.903,
+      "PC_GDP": 0.593,
+      "USD_CAP": 121.995,
+      "TOTAL_SPEND": 522.92
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1993,
+      "PC_HEALTHXP": 10.101,
+      "PC_GDP": 0.745,
+      "USD_CAP": 160.581,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1994,
+      "PC_HEALTHXP": 9.282,
+      "PC_GDP": 0.677,
+      "USD_CAP": 155.562,
+      "TOTAL_SPEND": 674.61
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1995,
+      "PC_HEALTHXP": 9.514,
+      "PC_GDP": 0.692,
+      "USD_CAP": 168.181,
+      "TOTAL_SPEND": 733.13
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1996,
+      "PC_HEALTHXP": 9.653,
+      "PC_GDP": 0.694,
+      "USD_CAP": 185.931,
+      "TOTAL_SPEND": 814.63
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1997,
+      "PC_HEALTHXP": 9.633,
+      "PC_GDP": 0.746,
+      "USD_CAP": 213.214,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1998,
+      "PC_HEALTHXP": 9.592,
+      "PC_GDP": 0.808,
+      "USD_CAP": 227.62,
+      "TOTAL_SPEND": 1008.69
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 1999,
+      "PC_HEALTHXP": 9.601,
+      "PC_GDP": 0.81,
+      "USD_CAP": 247.47,
+      "TOTAL_SPEND": 1104.19
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2000,
+      "PC_HEALTHXP": 10.212,
+      "PC_GDP": 0.787,
+      "USD_CAP": 290.719,
+      "TOTAL_SPEND": 1305.61
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2001,
+      "PC_HEALTHXP": 9.993,
+      "PC_GDP": 0.801,
+      "USD_CAP": 303.553,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2002,
+      "PC_HEALTHXP": 10.057,
+      "PC_GDP": 0.906,
+      "USD_CAP": 343.788,
+      "TOTAL_SPEND": 1560.16
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2003,
+      "PC_HEALTHXP": 9.877,
+      "PC_GDP": 0.911,
+      "USD_CAP": 350.856,
+      "TOTAL_SPEND": 1601.61
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2004,
+      "PC_HEALTHXP": 10.062,
+      "PC_GDP": 0.888,
+      "USD_CAP": 377.594,
+      "TOTAL_SPEND": 1733.88
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2005,
+      "PC_HEALTHXP": 9.662,
+      "PC_GDP": 0.805,
+      "USD_CAP": 384.641,
+      "TOTAL_SPEND": 1778.31
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2006,
+      "PC_HEALTHXP": 9.232,
+      "PC_GDP": 0.731,
+      "USD_CAP": 395.454,
+      "TOTAL_SPEND": 1843.08
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2007,
+      "PC_HEALTHXP": 8.579,
+      "PC_GDP": 0.691,
+      "USD_CAP": 385.796,
+      "TOTAL_SPEND": 1816.77
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2008,
+      "PC_HEALTHXP": 7.95,
+      "PC_GDP": 0.633,
+      "USD_CAP": 390.574,
+      "TOTAL_SPEND": 1862.34
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2009,
+      "PC_HEALTHXP": 7.606,
+      "PC_GDP": 0.69,
+      "USD_CAP": 382.607,
+      "TOTAL_SPEND": 1847.5
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2010,
+      "PC_HEALTHXP": 7.653,
+      "PC_GDP": 0.682,
+      "USD_CAP": 395.456,
+      "TOTAL_SPEND": 1933.48
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2011,
+      "PC_HEALTHXP": 7.998,
+      "PC_GDP": 0.703,
+      "USD_CAP": 436.365,
+      "TOTAL_SPEND": 2161.35
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2012,
+      "PC_HEALTHXP": 7.733,
+      "PC_GDP": 0.679,
+      "USD_CAP": 443.629,
+      "TOTAL_SPEND": 2226.38
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2013,
+      "PC_HEALTHXP": 7.589,
+      "PC_GDP": 0.678,
+      "USD_CAP": 453.76,
+      "TOTAL_SPEND": 2304.93
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2014,
+      "PC_HEALTHXP": 7.49,
+      "PC_GDP": 0.7,
+      "USD_CAP": 459.597,
+      "TOTAL_SPEND": 2361.06
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2015,
+      "PC_HEALTHXP": 7.655,
+      "PC_GDP": 0.764,
+      "USD_CAP": 473.844,
+      "TOTAL_SPEND": 2458.59
+    },
+    {
+      "LOCATION": "NOR",
+      "TIME": 2016,
+      "PC_HEALTHXP": 7.539,
+      "PC_GDP": 0.789,
+      "USD_CAP": 501.15,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2002,
+      "PC_HEALTHXP": 29.509,
+      "PC_GDP": 1.794,
+      "USD_CAP": 211.341,
+      "TOTAL_SPEND": 8079.64
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2003,
+      "PC_HEALTHXP": 31.574,
+      "PC_GDP": 1.883,
+      "USD_CAP": 230.732,
+      "TOTAL_SPEND": 8815.02
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2004,
+      "PC_HEALTHXP": 31,
+      "PC_GDP": 1.819,
+      "USD_CAP": 242.886,
+      "TOTAL_SPEND": 9273.93
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2005,
+      "PC_HEALTHXP": 29.762,
+      "PC_GDP": 1.728,
+      "USD_CAP": 240.171,
+      "TOTAL_SPEND": 9166.23
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2006,
+      "PC_HEALTHXP": 28.819,
+      "PC_GDP": 1.672,
+      "USD_CAP": 253.274,
+      "TOTAL_SPEND": 9660.19
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2007,
+      "PC_HEALTHXP": 26.54,
+      "PC_GDP": 1.559,
+      "USD_CAP": 261.569,
+      "TOTAL_SPEND": 9971.16
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2008,
+      "PC_HEALTHXP": 24.605,
+      "PC_GDP": 1.568,
+      "USD_CAP": 287.143,
+      "TOTAL_SPEND": 10947.54
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2009,
+      "PC_HEALTHXP": 24.574,
+      "PC_GDP": 1.619,
+      "USD_CAP": 311.849,
+      "TOTAL_SPEND": 11897.54
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2010,
+      "PC_HEALTHXP": 24.333,
+      "PC_GDP": 1.562,
+      "USD_CAP": 329.4,
+      "TOTAL_SPEND": 12531.3
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2011,
+      "PC_HEALTHXP": 24.148,
+      "PC_GDP": 1.505,
+      "USD_CAP": 343.987,
+      "TOTAL_SPEND": 13093.26
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2012,
+      "PC_HEALTHXP": 22.255,
+      "PC_GDP": 1.38,
+      "USD_CAP": 328.913,
+      "TOTAL_SPEND": 12519.47
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2013,
+      "PC_HEALTHXP": 21.704,
+      "PC_GDP": 1.384,
+      "USD_CAP": 342.047,
+      "TOTAL_SPEND": 13011.53
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2014,
+      "PC_HEALTHXP": 21.468,
+      "PC_GDP": 1.341,
+      "USD_CAP": 344.854,
+      "TOTAL_SPEND": 13108.5
+    },
+    {
+      "LOCATION": "POL",
+      "TIME": 2015,
+      "PC_HEALTHXP": 20.966,
+      "PC_GDP": 1.33,
+      "USD_CAP": 357.184,
+      "TOTAL_SPEND": 13568.14
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1970,
+      "PC_HEALTHXP": 14.226,
+      "PC_GDP": 0.322,
+      "USD_CAP": 6.784,
+      "TOTAL_SPEND": 58.89
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1977,
+      "PC_HEALTHXP": 20.706,
+      "PC_GDP": 0.846,
+      "USD_CAP": 35.339,
+      "TOTAL_SPEND": 334.15
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1978,
+      "PC_HEALTHXP": 24.23,
+      "PC_GDP": 1.021,
+      "USD_CAP": 46.422,
+      "TOTAL_SPEND": 443.71
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1979,
+      "PC_HEALTHXP": 25.041,
+      "PC_GDP": 1.025,
+      "USD_CAP": 52.753,
+      "TOTAL_SPEND": 509.66
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1980,
+      "PC_HEALTHXP": 20.977,
+      "PC_GDP": 1.004,
+      "USD_CAP": 58.286,
+      "TOTAL_SPEND": 569.24
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1981,
+      "PC_HEALTHXP": 19.472,
+      "PC_GDP": 0.978,
+      "USD_CAP": 62.52,
+      "TOTAL_SPEND": 615.91
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1982,
+      "PC_HEALTHXP": 18.984,
+      "PC_GDP": 0.965,
+      "USD_CAP": 66.506,
+      "TOTAL_SPEND": 659.19
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1983,
+      "PC_HEALTHXP": 20.083,
+      "PC_GDP": 0.969,
+      "USD_CAP": 68.948,
+      "TOTAL_SPEND": 686.57
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1984,
+      "PC_HEALTHXP": 20.577,
+      "PC_GDP": 1.018,
+      "USD_CAP": 73.363,
+      "TOTAL_SPEND": 733.35
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1985,
+      "PC_HEALTHXP": 25.954,
+      "PC_GDP": 1.393,
+      "USD_CAP": 106.172,
+      "TOTAL_SPEND": 1064.23
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1986,
+      "PC_HEALTHXP": 23.01,
+      "PC_GDP": 1.365,
+      "USD_CAP": 110.418,
+      "TOTAL_SPEND": 1107.79
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1987,
+      "PC_HEALTHXP": 25.339,
+      "PC_GDP": 1.462,
+      "USD_CAP": 129.032,
+      "TOTAL_SPEND": 1294.19
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1988,
+      "PC_HEALTHXP": 23.255,
+      "PC_GDP": 1.397,
+      "USD_CAP": 137.375,
+      "TOTAL_SPEND": 1376.44
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1989,
+      "PC_HEALTHXP": 24.267,
+      "PC_GDP": 1.344,
+      "USD_CAP": 146.308,
+      "TOTAL_SPEND": 1463.81
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1990,
+      "PC_HEALTHXP": 25.305,
+      "PC_GDP": 1.396,
+      "USD_CAP": 164.162,
+      "TOTAL_SPEND": 1638.87
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1991,
+      "PC_HEALTHXP": 24.786,
+      "PC_GDP": 1.497,
+      "USD_CAP": 190.3,
+      "TOTAL_SPEND": 1895.43
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1992,
+      "PC_HEALTHXP": 25.336,
+      "PC_GDP": 1.567,
+      "USD_CAP": 206.193,
+      "TOTAL_SPEND": 2052.13
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1993,
+      "PC_HEALTHXP": 26.203,
+      "PC_GDP": 1.691,
+      "USD_CAP": 222.786,
+      "TOTAL_SPEND": 2219.99
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1994,
+      "PC_HEALTHXP": 26.03,
+      "PC_GDP": 1.673,
+      "USD_CAP": 226.69,
+      "TOTAL_SPEND": 2264.98
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1995,
+      "PC_HEALTHXP": 24.275,
+      "PC_GDP": 1.748,
+      "USD_CAP": 251.235,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1996,
+      "PC_HEALTHXP": 24.626,
+      "PC_GDP": 1.835,
+      "USD_CAP": 273.478,
+      "TOTAL_SPEND": 2752.27
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1997,
+      "PC_HEALTHXP": 24.72,
+      "PC_GDP": 1.832,
+      "USD_CAP": 289.154,
+      "TOTAL_SPEND": 2923.05
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 1998,
+      "PC_HEALTHXP": 24.15,
+      "PC_GDP": 1.783,
+      "USD_CAP": 297.23,
+      "TOTAL_SPEND": 3019.92
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2000,
+      "PC_HEALTHXP": 21.881,
+      "PC_GDP": 1.832,
+      "USD_CAP": 345.833,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2001,
+      "PC_HEALTHXP": 22.486,
+      "PC_GDP": 1.89,
+      "USD_CAP": 370.107,
+      "TOTAL_SPEND": 3835.32
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2002,
+      "PC_HEALTHXP": 22.542,
+      "PC_GDP": 1.929,
+      "USD_CAP": 392.927,
+      "TOTAL_SPEND": 4094.15
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2003,
+      "PC_HEALTHXP": 22.284,
+      "PC_GDP": 1.984,
+      "USD_CAP": 413.377,
+      "TOTAL_SPEND": 4323.44
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2004,
+      "PC_HEALTHXP": 22.336,
+      "PC_GDP": 2.076,
+      "USD_CAP": 446.21,
+      "TOTAL_SPEND": 4678
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2005,
+      "PC_HEALTHXP": 22.09,
+      "PC_GDP": 2.084,
+      "USD_CAP": 473.861,
+      "TOTAL_SPEND": 4977.12
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2006,
+      "PC_HEALTHXP": 22.342,
+      "PC_GDP": 2.041,
+      "USD_CAP": 503.565,
+      "TOTAL_SPEND": 5298.66
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2007,
+      "PC_HEALTHXP": 22.136,
+      "PC_GDP": 2.007,
+      "USD_CAP": 515.673,
+      "TOTAL_SPEND": 5436.72
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2008,
+      "PC_HEALTHXP": 21.184,
+      "PC_GDP": 1.981,
+      "USD_CAP": 527.624,
+      "TOTAL_SPEND": 5570.75
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2009,
+      "PC_HEALTHXP": 20.154,
+      "PC_GDP": 1.991,
+      "USD_CAP": 527.548,
+      "TOTAL_SPEND": 5575.26
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2010,
+      "PC_HEALTHXP": 19.269,
+      "PC_GDP": 1.892,
+      "USD_CAP": 517.697,
+      "TOTAL_SPEND": 5473.66
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2011,
+      "PC_HEALTHXP": 18.373,
+      "PC_GDP": 1.751,
+      "USD_CAP": 468.954,
+      "TOTAL_SPEND": 4951.01
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2012,
+      "PC_HEALTHXP": 16.638,
+      "PC_GDP": 1.555,
+      "USD_CAP": 411.465,
+      "TOTAL_SPEND": 4326.49
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2013,
+      "PC_HEALTHXP": 15.613,
+      "PC_GDP": 1.419,
+      "USD_CAP": 395.927,
+      "TOTAL_SPEND": 4140.33
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2014,
+      "PC_HEALTHXP": 15.398,
+      "PC_GDP": 1.389,
+      "USD_CAP": 400.196,
+      "TOTAL_SPEND": 4162.46
+    },
+    {
+      "LOCATION": "PRT",
+      "TIME": 2015,
+      "PC_HEALTHXP": 15.5,
+      "PC_GDP": 1.391,
+      "USD_CAP": 412.877,
+      "TOTAL_SPEND": 4276.61
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 1999,
+      "PC_HEALTHXP": 34.81,
+      "PC_GDP": 1.928,
+      "USD_CAP": 206.344,
+      "TOTAL_SPEND": 1113.44
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2000,
+      "PC_HEALTHXP": 34.69,
+      "PC_GDP": 1.843,
+      "USD_CAP": 209.134,
+      "TOTAL_SPEND": 1126.96
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2001,
+      "PC_HEALTHXP": 34.657,
+      "PC_GDP": 1.851,
+      "USD_CAP": 229.487,
+      "TOTAL_SPEND": 1234.38
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2002,
+      "PC_HEALTHXP": 37.564,
+      "PC_GDP": 2.072,
+      "USD_CAP": 275.505,
+      "TOTAL_SPEND": 1481.37
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2003,
+      "PC_HEALTHXP": 40.239,
+      "PC_GDP": 2.196,
+      "USD_CAP": 310.549,
+      "TOTAL_SPEND": 1668.7
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2004,
+      "PC_HEALTHXP": 34.185,
+      "PC_GDP": 2.215,
+      "USD_CAP": 336.67,
+      "TOTAL_SPEND": 1808.69
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2005,
+      "PC_HEALTHXP": 33.282,
+      "PC_GDP": 2.196,
+      "USD_CAP": 364.882,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2006,
+      "PC_HEALTHXP": 31.128,
+      "PC_GDP": 2.136,
+      "USD_CAP": 403.152,
+      "TOTAL_SPEND": 2166.16
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2007,
+      "PC_HEALTHXP": 29.372,
+      "PC_GDP": 2.112,
+      "USD_CAP": 446.793,
+      "TOTAL_SPEND": 2401.34
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2008,
+      "PC_HEALTHXP": 30.159,
+      "PC_GDP": 2.101,
+      "USD_CAP": 497.76,
+      "TOTAL_SPEND": 2677.57
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2009,
+      "PC_HEALTHXP": 29.429,
+      "PC_GDP": 2.342,
+      "USD_CAP": 540.515,
+      "TOTAL_SPEND": 2911.43
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2010,
+      "PC_HEALTHXP": 29.198,
+      "PC_GDP": 2.278,
+      "USD_CAP": 569.68,
+      "TOTAL_SPEND": 3071.39
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2011,
+      "PC_HEALTHXP": 28.72,
+      "PC_GDP": 2.131,
+      "USD_CAP": 550.42,
+      "TOTAL_SPEND": 2971.38
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2012,
+      "PC_HEALTHXP": 26.544,
+      "PC_GDP": 2.026,
+      "USD_CAP": 539.956,
+      "TOTAL_SPEND": 2919.85
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2013,
+      "PC_HEALTHXP": 26.535,
+      "PC_GDP": 1.998,
+      "USD_CAP": 557.263,
+      "TOTAL_SPEND": 3016.68
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2014,
+      "PC_HEALTHXP": 27.029,
+      "PC_GDP": 1.871,
+      "USD_CAP": 542.885,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "SVK",
+      "TIME": 2015,
+      "PC_HEALTHXP": 26.866,
+      "PC_GDP": 1.85,
+      "USD_CAP": 553.268,
+      "TOTAL_SPEND": 3000.82
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1980,
+      "PC_HEALTHXP": 21.807,
+      "PC_GDP": 1.083,
+      "USD_CAP": 76.161,
+      "TOTAL_SPEND": 2855.36
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1981,
+      "PC_HEALTHXP": 21.468,
+      "PC_GDP": 1.096,
+      "USD_CAP": 83.527,
+      "TOTAL_SPEND": 3153.87
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1982,
+      "PC_HEALTHXP": 22.189,
+      "PC_GDP": 1.153,
+      "USD_CAP": 93.937,
+      "TOTAL_SPEND": 3568.29
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1983,
+      "PC_HEALTHXP": 20.64,
+      "PC_GDP": 1.104,
+      "USD_CAP": 94.666,
+      "TOTAL_SPEND": 3613.55
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1984,
+      "PC_HEALTHXP": 19.24,
+      "PC_GDP": 0.993,
+      "USD_CAP": 89.373,
+      "TOTAL_SPEND": 3425.7
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1985,
+      "PC_HEALTHXP": 21.034,
+      "PC_GDP": 1.061,
+      "USD_CAP": 100.491,
+      "TOTAL_SPEND": 3865.84
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1986,
+      "PC_HEALTHXP": 19.646,
+      "PC_GDP": 0.983,
+      "USD_CAP": 97.807,
+      "TOTAL_SPEND": 3773.85
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1987,
+      "PC_HEALTHXP": 19.317,
+      "PC_GDP": 0.98,
+      "USD_CAP": 105.265,
+      "TOTAL_SPEND": 4072.16
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1988,
+      "PC_HEALTHXP": 18.402,
+      "PC_GDP": 1.039,
+      "USD_CAP": 121.057,
+      "TOTAL_SPEND": 4693.01
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1989,
+      "PC_HEALTHXP": 18.798,
+      "PC_GDP": 1.084,
+      "USD_CAP": 137.413,
+      "TOTAL_SPEND": 5335.44
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1990,
+      "PC_HEALTHXP": 18.556,
+      "PC_GDP": 1.132,
+      "USD_CAP": 154.269,
+      "TOTAL_SPEND": 5996.02
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1995,
+      "PC_HEALTHXP": 19.775,
+      "PC_GDP": 1.394,
+      "USD_CAP": 225.894,
+      "TOTAL_SPEND": 8973.42
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1996,
+      "PC_HEALTHXP": 20.275,
+      "PC_GDP": 1.433,
+      "USD_CAP": 242.473,
+      "TOTAL_SPEND": 9672.21
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1997,
+      "PC_HEALTHXP": 21.321,
+      "PC_GDP": 1.482,
+      "USD_CAP": 264.692,
+      "TOTAL_SPEND": 10602.87
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1998,
+      "PC_HEALTHXP": 21.66,
+      "PC_GDP": 1.498,
+      "USD_CAP": 284.806,
+      "TOTAL_SPEND": 11455.9
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 1999,
+      "PC_HEALTHXP": 22.123,
+      "PC_GDP": 1.532,
+      "USD_CAP": 304.884,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2000,
+      "PC_HEALTHXP": 21.958,
+      "PC_GDP": 1.497,
+      "USD_CAP": 322.041,
+      "TOTAL_SPEND": 13064.52
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2001,
+      "PC_HEALTHXP": 21.949,
+      "PC_GDP": 1.489,
+      "USD_CAP": 341.886,
+      "TOTAL_SPEND": 13966.18
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2002,
+      "PC_HEALTHXP": 22.65,
+      "PC_GDP": 1.541,
+      "USD_CAP": 375.405,
+      "TOTAL_SPEND": 15553.61
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2003,
+      "PC_HEALTHXP": 21.879,
+      "PC_GDP": 1.648,
+      "USD_CAP": 412.778,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2004,
+      "PC_HEALTHXP": 21.26,
+      "PC_GDP": 1.62,
+      "USD_CAP": 424.38,
+      "TOTAL_SPEND": 18215.19
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2005,
+      "PC_HEALTHXP": 20.653,
+      "PC_GDP": 1.585,
+      "USD_CAP": 439.206,
+      "TOTAL_SPEND": 19172.73
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2006,
+      "PC_HEALTHXP": 19.635,
+      "PC_GDP": 1.523,
+      "USD_CAP": 469.511,
+      "TOTAL_SPEND": 20845.03
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2007,
+      "PC_HEALTHXP": 19.01,
+      "PC_GDP": 1.49,
+      "USD_CAP": 485.437,
+      "TOTAL_SPEND": 21954.76
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2008,
+      "PC_HEALTHXP": 18.494,
+      "PC_GDP": 1.533,
+      "USD_CAP": 512.994,
+      "TOTAL_SPEND": 23574.18
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2009,
+      "PC_HEALTHXP": 18.252,
+      "PC_GDP": 1.641,
+      "USD_CAP": 531.957,
+      "TOTAL_SPEND": 24663.09
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2010,
+      "PC_HEALTHXP": 18.192,
+      "PC_GDP": 1.641,
+      "USD_CAP": 524.963,
+      "TOTAL_SPEND": 24451.15
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2011,
+      "PC_HEALTHXP": 17.78,
+      "PC_GDP": 1.617,
+      "USD_CAP": 518.368,
+      "TOTAL_SPEND": 24229.92
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2012,
+      "PC_HEALTHXP": 17.652,
+      "PC_GDP": 1.602,
+      "USD_CAP": 512.297,
+      "TOTAL_SPEND": 23961.7
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2013,
+      "PC_HEALTHXP": 18.679,
+      "PC_GDP": 1.685,
+      "USD_CAP": 549.259,
+      "TOTAL_SPEND": 25606.48
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2014,
+      "PC_HEALTHXP": 17.909,
+      "PC_GDP": 1.627,
+      "USD_CAP": 547.538,
+      "TOTAL_SPEND": 25450.05
+    },
+    {
+      "LOCATION": "ESP",
+      "TIME": 2015,
+      "PC_HEALTHXP": 17.995,
+      "PC_GDP": 1.649,
+      "USD_CAP": 572.253,
+      "TOTAL_SPEND": 26579.83
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1970,
+      "PC_HEALTHXP": 7.666,
+      "PC_GDP": 0.422,
+      "USD_CAP": 20.418,
+      "TOTAL_SPEND": 164.22
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1971,
+      "PC_HEALTHXP": 7.768,
+      "PC_GDP": 0.462,
+      "USD_CAP": 23.532,
+      "TOTAL_SPEND": 190.57
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1972,
+      "PC_HEALTHXP": 8.49,
+      "PC_GDP": 0.513,
+      "USD_CAP": 27.837,
+      "TOTAL_SPEND": 226.1
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1973,
+      "PC_HEALTHXP": 9.326,
+      "PC_GDP": 0.561,
+      "USD_CAP": 33.314,
+      "TOTAL_SPEND": 271.05
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1974,
+      "PC_HEALTHXP": 8.995,
+      "PC_GDP": 0.563,
+      "USD_CAP": 37.473,
+      "TOTAL_SPEND": 305.78
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1975,
+      "PC_HEALTHXP": 8.56,
+      "PC_GDP": 0.56,
+      "USD_CAP": 41.61,
+      "TOTAL_SPEND": 340.89
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1976,
+      "PC_HEALTHXP": 8.118,
+      "PC_GDP": 0.555,
+      "USD_CAP": 43.743,
+      "TOTAL_SPEND": 359.67
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1977,
+      "PC_HEALTHXP": 7.701,
+      "PC_GDP": 0.584,
+      "USD_CAP": 48.003,
+      "TOTAL_SPEND": 396.1
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1978,
+      "PC_HEALTHXP": 7.507,
+      "PC_GDP": 0.573,
+      "USD_CAP": 51.13,
+      "TOTAL_SPEND": 423.13
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1979,
+      "PC_HEALTHXP": 7.381,
+      "PC_GDP": 0.556,
+      "USD_CAP": 55.579,
+      "TOTAL_SPEND": 460.95
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1980,
+      "PC_HEALTHXP": 6.974,
+      "PC_GDP": 0.546,
+      "USD_CAP": 60.498,
+      "TOTAL_SPEND": 502.77
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1981,
+      "PC_HEALTHXP": 7.019,
+      "PC_GDP": 0.557,
+      "USD_CAP": 67.682,
+      "TOTAL_SPEND": 563.15
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1982,
+      "PC_HEALTHXP": 7.298,
+      "PC_GDP": 0.586,
+      "USD_CAP": 76.451,
+      "TOTAL_SPEND": 636.47
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1983,
+      "PC_HEALTHXP": 7.393,
+      "PC_GDP": 0.587,
+      "USD_CAP": 81.086,
+      "TOTAL_SPEND": 675.37
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1984,
+      "PC_HEALTHXP": 7.157,
+      "PC_GDP": 0.554,
+      "USD_CAP": 82.604,
+      "TOTAL_SPEND": 688.64
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1985,
+      "PC_HEALTHXP": 7.671,
+      "PC_GDP": 0.564,
+      "USD_CAP": 88.457,
+      "TOTAL_SPEND": 738.65
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1986,
+      "PC_HEALTHXP": 7.933,
+      "PC_GDP": 0.565,
+      "USD_CAP": 92.603,
+      "TOTAL_SPEND": 775.07
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1987,
+      "PC_HEALTHXP": 8.143,
+      "PC_GDP": 0.586,
+      "USD_CAP": 101.523,
+      "TOTAL_SPEND": 852.57
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1988,
+      "PC_HEALTHXP": 7.585,
+      "PC_GDP": 0.54,
+      "USD_CAP": 98.76,
+      "TOTAL_SPEND": 833.19
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1989,
+      "PC_HEALTHXP": 8.6,
+      "PC_GDP": 0.617,
+      "USD_CAP": 119.607,
+      "TOTAL_SPEND": 1015.82
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1990,
+      "PC_HEALTHXP": 8.628,
+      "PC_GDP": 0.626,
+      "USD_CAP": 125.815,
+      "TOTAL_SPEND": 1076.83
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1991,
+      "PC_HEALTHXP": 9.154,
+      "PC_GDP": 0.663,
+      "USD_CAP": 135.181,
+      "TOTAL_SPEND": 1164.91
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1992,
+      "PC_HEALTHXP": 10.108,
+      "PC_GDP": 0.761,
+      "USD_CAP": 155.916,
+      "TOTAL_SPEND": 1351.49
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1993,
+      "PC_HEALTHXP": 11.203,
+      "PC_GDP": 0.871,
+      "USD_CAP": 177.84,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1994,
+      "PC_HEALTHXP": 12.355,
+      "PC_GDP": 0.911,
+      "USD_CAP": 196.493,
+      "TOTAL_SPEND": 1725.35
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1995,
+      "PC_HEALTHXP": 12.929,
+      "PC_GDP": 0.943,
+      "USD_CAP": 214.705,
+      "TOTAL_SPEND": 1895.19
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1996,
+      "PC_HEALTHXP": 14.254,
+      "PC_GDP": 1.068,
+      "USD_CAP": 252.227,
+      "TOTAL_SPEND": 2229.94
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1997,
+      "PC_HEALTHXP": 13.028,
+      "PC_GDP": 0.953,
+      "USD_CAP": 233.056,
+      "TOTAL_SPEND": 2061.63
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1998,
+      "PC_HEALTHXP": 14.286,
+      "PC_GDP": 1.058,
+      "USD_CAP": 269.433,
+      "TOTAL_SPEND": 2384.74
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 1999,
+      "PC_HEALTHXP": 14.635,
+      "PC_GDP": 1.085,
+      "USD_CAP": 294.6,
+      "TOTAL_SPEND": 2609.53
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2000,
+      "PC_HEALTHXP": 14.511,
+      "PC_GDP": 1.076,
+      "USD_CAP": 314.697,
+      "TOTAL_SPEND": 2792.03
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2001,
+      "PC_HEALTHXP": 14.61,
+      "PC_GDP": 1.174,
+      "USD_CAP": 348.639,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2002,
+      "PC_HEALTHXP": 14.706,
+      "PC_GDP": 1.23,
+      "USD_CAP": 376.14,
+      "TOTAL_SPEND": 3357.03
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2003,
+      "PC_HEALTHXP": 14.215,
+      "PC_GDP": 1.203,
+      "USD_CAP": 378.634,
+      "TOTAL_SPEND": 3391.89
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2004,
+      "PC_HEALTHXP": 14.128,
+      "PC_GDP": 1.167,
+      "USD_CAP": 391.6,
+      "TOTAL_SPEND": 3521.87
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2005,
+      "PC_HEALTHXP": 13.922,
+      "PC_GDP": 1.152,
+      "USD_CAP": 391.434,
+      "TOTAL_SPEND": 3534.48
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2006,
+      "PC_HEALTHXP": 13.952,
+      "PC_GDP": 1.139,
+      "USD_CAP": 426.3,
+      "TOTAL_SPEND": 3871.02
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2007,
+      "PC_HEALTHXP": 13.704,
+      "PC_GDP": 1.106,
+      "USD_CAP": 448.828,
+      "TOTAL_SPEND": 4105.92
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2008,
+      "PC_HEALTHXP": 13.65,
+      "PC_GDP": 1.135,
+      "USD_CAP": 474.925,
+      "TOTAL_SPEND": 4378.64
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2009,
+      "PC_HEALTHXP": 13.475,
+      "PC_GDP": 1.205,
+      "USD_CAP": 478.419,
+      "TOTAL_SPEND": 4448.59
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2010,
+      "PC_HEALTHXP": 13.301,
+      "PC_GDP": 1.129,
+      "USD_CAP": 470.326,
+      "TOTAL_SPEND": 4410.78
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2011,
+      "PC_HEALTHXP": 10.245,
+      "PC_GDP": 1.094,
+      "USD_CAP": 478.705,
+      "TOTAL_SPEND": 4523.39
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2012,
+      "PC_HEALTHXP": 10.149,
+      "PC_GDP": 1.11,
+      "USD_CAP": 496.505,
+      "TOTAL_SPEND": 4726.42
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2013,
+      "PC_HEALTHXP": 9.846,
+      "PC_GDP": 1.093,
+      "USD_CAP": 499.194,
+      "TOTAL_SPEND": 4792.45
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2014,
+      "PC_HEALTHXP": 9.816,
+      "PC_GDP": 1.094,
+      "USD_CAP": 507.491,
+      "TOTAL_SPEND": 4920.69
+    },
+    {
+      "LOCATION": "SWE",
+      "TIME": 2015,
+      "PC_HEALTHXP": 9.851,
+      "PC_GDP": 1.085,
+      "USD_CAP": 518.78,
+      "TOTAL_SPEND": 5083.62
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1985,
+      "PC_HEALTHXP": 11.592,
+      "PC_GDP": 0.808,
+      "USD_CAP": 171.227,
+      "TOTAL_SPEND": 1107.9
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1986,
+      "PC_HEALTHXP": 12.105,
+      "PC_GDP": 0.865,
+      "USD_CAP": 189.428,
+      "TOTAL_SPEND": 1232.06
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1987,
+      "PC_HEALTHXP": 10.344,
+      "PC_GDP": 0.76,
+      "USD_CAP": 172.362,
+      "TOTAL_SPEND": 1128.13
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1988,
+      "PC_HEALTHXP": 10.682,
+      "PC_GDP": 0.79,
+      "USD_CAP": 190.12,
+      "TOTAL_SPEND": 1253.53
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1989,
+      "PC_HEALTHXP": 10.326,
+      "PC_GDP": 0.766,
+      "USD_CAP": 198.234,
+      "TOTAL_SPEND": 1317.64
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1990,
+      "PC_HEALTHXP": 10.549,
+      "PC_GDP": 0.777,
+      "USD_CAP": 213.748,
+      "TOTAL_SPEND": 1435.43
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1991,
+      "PC_HEALTHXP": 10.106,
+      "PC_GDP": 0.805,
+      "USD_CAP": 223.999,
+      "TOTAL_SPEND": 1523.19
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1992,
+      "PC_HEALTHXP": 9.692,
+      "PC_GDP": 0.808,
+      "USD_CAP": 227.292,
+      "TOTAL_SPEND": 1562.72
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1993,
+      "PC_HEALTHXP": 10.022,
+      "PC_GDP": 0.843,
+      "USD_CAP": 240.318,
+      "TOTAL_SPEND": 1667.39
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1994,
+      "PC_HEALTHXP": 10.055,
+      "PC_GDP": 0.853,
+      "USD_CAP": 249.578,
+      "TOTAL_SPEND": 1745.5
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1995,
+      "PC_HEALTHXP": 10.097,
+      "PC_GDP": 0.893,
+      "USD_CAP": 266.307,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1996,
+      "PC_HEALTHXP": 10.162,
+      "PC_GDP": 0.935,
+      "USD_CAP": 285.052,
+      "TOTAL_SPEND": 2015.84
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1997,
+      "PC_HEALTHXP": 10.453,
+      "PC_GDP": 0.96,
+      "USD_CAP": 305.359,
+      "TOTAL_SPEND": 2164.66
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1998,
+      "PC_HEALTHXP": 10.352,
+      "PC_GDP": 0.964,
+      "USD_CAP": 316.86,
+      "TOTAL_SPEND": 2252.87
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 1999,
+      "PC_HEALTHXP": 10.623,
+      "PC_GDP": 1.003,
+      "USD_CAP": 339.043,
+      "TOTAL_SPEND": 2422.12
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2000,
+      "PC_HEALTHXP": 10.836,
+      "PC_GDP": 1.012,
+      "USD_CAP": 361.001,
+      "TOTAL_SPEND": 2593.52
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2001,
+      "PC_HEALTHXP": 10.741,
+      "PC_GDP": 1.041,
+      "USD_CAP": 383.731,
+      "TOTAL_SPEND": 2774.32
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2002,
+      "PC_HEALTHXP": 10.395,
+      "PC_GDP": 1.05,
+      "USD_CAP": 395.506,
+      "TOTAL_SPEND": 2881.16
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2003,
+      "PC_HEALTHXP": 10.616,
+      "PC_GDP": 1.103,
+      "USD_CAP": 414.972,
+      "TOTAL_SPEND": 3045.48
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2004,
+      "PC_HEALTHXP": 10.549,
+      "PC_GDP": 1.1,
+      "USD_CAP": 430.299,
+      "TOTAL_SPEND": 3179.75
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2005,
+      "PC_HEALTHXP": 10.622,
+      "PC_GDP": 1.089,
+      "USD_CAP": 440.715,
+      "TOTAL_SPEND": 3277.65
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2006,
+      "PC_HEALTHXP": 10.399,
+      "PC_GDP": 1.02,
+      "USD_CAP": 458.412,
+      "TOTAL_SPEND": 3430.73
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2007,
+      "PC_HEALTHXP": 10.305,
+      "PC_GDP": 0.993,
+      "USD_CAP": 491.141,
+      "TOTAL_SPEND": 3708.66
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2008,
+      "PC_HEALTHXP": 10.137,
+      "PC_GDP": 0.991,
+      "USD_CAP": 518.695,
+      "TOTAL_SPEND": 3966.81
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2009,
+      "PC_HEALTHXP": 10.134,
+      "PC_GDP": 1.053,
+      "USD_CAP": 543.521,
+      "TOTAL_SPEND": 4208.93
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2010,
+      "PC_HEALTHXP": 14.503,
+      "PC_GDP": 1.558,
+      "USD_CAP": 824.671,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2011,
+      "PC_HEALTHXP": 14.439,
+      "PC_GDP": 1.562,
+      "USD_CAP": 873.221,
+      "TOTAL_SPEND": 6909.27
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2012,
+      "PC_HEALTHXP": 14.307,
+      "PC_GDP": 1.588,
+      "USD_CAP": 914.396,
+      "TOTAL_SPEND": 7312.3
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2013,
+      "PC_HEALTHXP": 14.083,
+      "PC_GDP": 1.6,
+      "USD_CAP": 956.715,
+      "TOTAL_SPEND": 7739.2
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2014,
+      "PC_HEALTHXP": 13.895,
+      "PC_GDP": 1.61,
+      "USD_CAP": 985.969,
+      "TOTAL_SPEND": 8073.75
+    },
+    {
+      "LOCATION": "CHE",
+      "TIME": 2015,
+      "PC_HEALTHXP": 14.014,
+      "PC_GDP": 1.69,
+      "USD_CAP": 1056.053,
+      "TOTAL_SPEND": 8746.65
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1981,
+      "PC_HEALTHXP": 10.714,
+      "PC_GDP": 0.276,
+      "USD_CAP": 12.664,
+      "TOTAL_SPEND": 569.73
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1982,
+      "PC_HEALTHXP": 12.903,
+      "PC_GDP": 0.277,
+      "USD_CAP": 13.611,
+      "TOTAL_SPEND": 626.45
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1983,
+      "PC_HEALTHXP": 11.905,
+      "PC_GDP": 0.261,
+      "USD_CAP": 13.762,
+      "TOTAL_SPEND": 647.82
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1984,
+      "PC_HEALTHXP": 10.938,
+      "PC_GDP": 0.231,
+      "USD_CAP": 13.098,
+      "TOTAL_SPEND": 630.2
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1985,
+      "PC_HEALTHXP": 13.889,
+      "PC_GDP": 0.207,
+      "USD_CAP": 12.302,
+      "TOTAL_SPEND": 604.45
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1986,
+      "PC_HEALTHXP": 12.403,
+      "PC_GDP": 0.228,
+      "USD_CAP": 14.455,
+      "TOTAL_SPEND": 724.61
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1987,
+      "PC_HEALTHXP": 13.333,
+      "PC_GDP": 0.253,
+      "USD_CAP": 17.667,
+      "TOTAL_SPEND": 902.8
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1990,
+      "PC_HEALTHXP": 22.021,
+      "PC_GDP": 0.54,
+      "USD_CAP": 43.847,
+      "TOTAL_SPEND": 2364.3
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1994,
+      "PC_HEALTHXP": 31.628,
+      "PC_GDP": 0.83,
+      "USD_CAP": 75.335,
+      "TOTAL_SPEND": 4336.59
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 1999,
+      "PC_HEALTHXP": 27.339,
+      "PC_GDP": 1.221,
+      "USD_CAP": 100.371,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "TUR",
+      "TIME": 2000,
+      "PC_HEALTHXP": 27.806,
+      "PC_GDP": 1.285,
+      "USD_CAP": 118.272,
+      "TOTAL_SPEND": 7479.54
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1970,
+      "PC_HEALTHXP": 15.819,
+      "PC_GDP": 0.628,
+      "USD_CAP": 22.406,
+      "TOTAL_SPEND": 1247.19
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1971,
+      "PC_HEALTHXP": 15.992,
+      "PC_GDP": 0.642,
+      "USD_CAP": 24.816,
+      "TOTAL_SPEND": 1387.12
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1972,
+      "PC_HEALTHXP": 15.6,
+      "PC_GDP": 0.638,
+      "USD_CAP": 26.713,
+      "TOTAL_SPEND": 1498.23
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1973,
+      "PC_HEALTHXP": 15.005,
+      "PC_GDP": 0.603,
+      "USD_CAP": 28.318,
+      "TOTAL_SPEND": 1591.32
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1974,
+      "PC_HEALTHXP": 14.959,
+      "PC_GDP": 0.695,
+      "USD_CAP": 34.671,
+      "TOTAL_SPEND": 1949.55
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1975,
+      "PC_HEALTHXP": 12.706,
+      "PC_GDP": 0.627,
+      "USD_CAP": 33.655,
+      "TOTAL_SPEND": 1892.28
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1976,
+      "PC_HEALTHXP": 13.111,
+      "PC_GDP": 0.649,
+      "USD_CAP": 37.833,
+      "TOTAL_SPEND": 2126.67
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1977,
+      "PC_HEALTHXP": 13.654,
+      "PC_GDP": 0.662,
+      "USD_CAP": 41.998,
+      "TOTAL_SPEND": 2360.01
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1978,
+      "PC_HEALTHXP": 13.849,
+      "PC_GDP": 0.665,
+      "USD_CAP": 47.027,
+      "TOTAL_SPEND": 2642.75
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1979,
+      "PC_HEALTHXP": 13.627,
+      "PC_GDP": 0.646,
+      "USD_CAP": 51.289,
+      "TOTAL_SPEND": 2884.85
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1980,
+      "PC_HEALTHXP": 13.528,
+      "PC_GDP": 0.685,
+      "USD_CAP": 58.008,
+      "TOTAL_SPEND": 3266.68
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1981,
+      "PC_HEALTHXP": 13.383,
+      "PC_GDP": 0.707,
+      "USD_CAP": 64.956,
+      "TOTAL_SPEND": 3659.22
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1982,
+      "PC_HEALTHXP": 14.488,
+      "PC_GDP": 0.742,
+      "USD_CAP": 73.881,
+      "TOTAL_SPEND": 4160.51
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1983,
+      "PC_HEALTHXP": 14.289,
+      "PC_GDP": 0.76,
+      "USD_CAP": 81.975,
+      "TOTAL_SPEND": 4617.89
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1984,
+      "PC_HEALTHXP": 15.156,
+      "PC_GDP": 0.794,
+      "USD_CAP": 90.486,
+      "TOTAL_SPEND": 5105.41
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1985,
+      "PC_HEALTHXP": 15.008,
+      "PC_GDP": 0.771,
+      "USD_CAP": 94.335,
+      "TOTAL_SPEND": 5334.67
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1986,
+      "PC_HEALTHXP": 15.07,
+      "PC_GDP": 0.772,
+      "USD_CAP": 99.163,
+      "TOTAL_SPEND": 5620.7
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1987,
+      "PC_HEALTHXP": 14.468,
+      "PC_GDP": 0.749,
+      "USD_CAP": 103.709,
+      "TOTAL_SPEND": 5890.88
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1988,
+      "PC_HEALTHXP": 14.664,
+      "PC_GDP": 0.746,
+      "USD_CAP": 112.847,
+      "TOTAL_SPEND": 6424.19
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1989,
+      "PC_HEALTHXP": 14.777,
+      "PC_GDP": 0.744,
+      "USD_CAP": 119.66,
+      "TOTAL_SPEND": 6829.8
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1990,
+      "PC_HEALTHXP": 14.485,
+      "PC_GDP": 0.737,
+      "USD_CAP": 123.408,
+      "TOTAL_SPEND": 7064.81
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1991,
+      "PC_HEALTHXP": 14.7,
+      "PC_GDP": 0.806,
+      "USD_CAP": 137.486,
+      "TOTAL_SPEND": 7895.12
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1992,
+      "PC_HEALTHXP": 15.092,
+      "PC_GDP": 0.896,
+      "USD_CAP": 156.32,
+      "TOTAL_SPEND": 9000.97
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1993,
+      "PC_HEALTHXP": 15.52,
+      "PC_GDP": 0.932,
+      "USD_CAP": 170.23,
+      "TOTAL_SPEND": 9825.44
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1994,
+      "PC_HEALTHXP": 15.948,
+      "PC_GDP": 0.969,
+      "USD_CAP": 187.466,
+      "TOTAL_SPEND": 10847.86
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1995,
+      "PC_HEALTHXP": 16.126,
+      "PC_GDP": 0.913,
+      "USD_CAP": 184.328,
+      "TOTAL_SPEND": 10694.53
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1996,
+      "PC_HEALTHXP": 16.546,
+      "PC_GDP": 0.935,
+      "USD_CAP": 201.152,
+      "TOTAL_SPEND": 11700.4
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 1997,
+      "PC_HEALTHXP": 16.925,
+      "PC_GDP": 0.935,
+      "USD_CAP": 212.206,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 2013,
+      "PC_HEALTHXP": 12.185,
+      "PC_GDP": 1.201,
+      "USD_CAP": 468.513,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 2014,
+      "PC_HEALTHXP": 12.049,
+      "PC_GDP": 1.181,
+      "USD_CAP": 480.649,
+      "TOTAL_SPEND": 31056.25
+    },
+    {
+      "LOCATION": "GBR",
+      "TIME": 2015,
+      "PC_HEALTHXP": 12.057,
+      "PC_GDP": 1.191,
+      "USD_CAP": 497.394,
+      "TOTAL_SPEND": 32394.7
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2000,
+      "PC_HEALTHXP": 11.365,
+      "PC_GDP": 1.421,
+      "USD_CAP": 518.109,
+      "TOTAL_SPEND": 146190.88
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2001,
+      "PC_HEALTHXP": 11.729,
+      "PC_GDP": 1.545,
+      "USD_CAP": 575.975,
+      "TOTAL_SPEND": 164134.99
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2002,
+      "PC_HEALTHXP": 12.075,
+      "PC_GDP": 1.686,
+      "USD_CAP": 643.351,
+      "TOTAL_SPEND": 185043.96
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2003,
+      "PC_HEALTHXP": 12.327,
+      "PC_GDP": 1.782,
+      "USD_CAP": 707.226,
+      "TOTAL_SPEND": 205171.87
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2004,
+      "PC_HEALTHXP": 12.505,
+      "PC_GDP": 1.818,
+      "USD_CAP": 762.271,
+      "TOTAL_SPEND": 223196.99
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2005,
+      "PC_HEALTHXP": 12.471,
+      "PC_GDP": 1.814,
+      "USD_CAP": 803.701,
+      "TOTAL_SPEND": 237506.99
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2006,
+      "PC_HEALTHXP": 12.725,
+      "PC_GDP": 1.866,
+      "USD_CAP": 866.302,
+      "TOTAL_SPEND": 258487.11
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2007,
+      "PC_HEALTHXP": 12.641,
+      "PC_GDP": 1.884,
+      "USD_CAP": 905.301,
+      "TOTAL_SPEND": 272704.91
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2008,
+      "PC_HEALTHXP": 12.399,
+      "PC_GDP": 1.896,
+      "USD_CAP": 917.815,
+      "TOTAL_SPEND": 279102
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2009,
+      "PC_HEALTHXP": 12.331,
+      "PC_GDP": 2.015,
+      "USD_CAP": 946.894,
+      "TOTAL_SPEND": 290480.12
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2010,
+      "PC_HEALTHXP": 11.938,
+      "PC_GDP": 1.957,
+      "USD_CAP": 946.859,
+      "TOTAL_SPEND": 292909.12
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2011,
+      "PC_HEALTHXP": 11.855,
+      "PC_GDP": 1.939,
+      "USD_CAP": 965.58,
+      "TOTAL_SPEND": 300935.91
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2012,
+      "PC_HEALTHXP": 11.459,
+      "PC_GDP": 1.874,
+      "USD_CAP": 964.237,
+      "TOTAL_SPEND": 302768.85
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2013,
+      "PC_HEALTHXP": 11.384,
+      "PC_GDP": 1.858,
+      "USD_CAP": 980.864,
+      "TOTAL_SPEND": 310154.01
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2014,
+      "PC_HEALTHXP": 11.968,
+      "PC_GDP": 1.981,
+      "USD_CAP": 1081.402,
+      "TOTAL_SPEND": 344495.16
+    },
+    {
+      "LOCATION": "USA",
+      "TIME": 2015,
+      "PC_HEALTHXP": 12.227,
+      "PC_GDP": 2.068,
+      "USD_CAP": 1162.399,
+      "TOTAL_SPEND": 373009.91
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 1999,
+      "PC_HEALTHXP": 19.973,
+      "PC_GDP": 1.139,
+      "USD_CAP": 95.332,
+      "TOTAL_SPEND": 132.53
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2000,
+      "PC_HEALTHXP": 22.79,
+      "PC_GDP": 1.177,
+      "USD_CAP": 110.803,
+      "TOTAL_SPEND": 154.79
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2001,
+      "PC_HEALTHXP": 25.52,
+      "PC_GDP": 1.222,
+      "USD_CAP": 126.176,
+      "TOTAL_SPEND": 175.15
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2002,
+      "PC_HEALTHXP": 27.158,
+      "PC_GDP": 1.285,
+      "USD_CAP": 148.975,
+      "TOTAL_SPEND": 205.49
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2003,
+      "PC_HEALTHXP": 24.654,
+      "PC_GDP": 1.204,
+      "USD_CAP": 157.352,
+      "TOTAL_SPEND": 215.69
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2004,
+      "PC_HEALTHXP": 25.539,
+      "PC_GDP": 1.301,
+      "USD_CAP": 187.682,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2005,
+      "PC_HEALTHXP": 24.026,
+      "PC_GDP": 1.191,
+      "USD_CAP": 196.655,
+      "TOTAL_SPEND": 266.42
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2006,
+      "PC_HEALTHXP": 23.76,
+      "PC_GDP": 1.169,
+      "USD_CAP": 225.173,
+      "TOTAL_SPEND": 303.27
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2007,
+      "PC_HEALTHXP": 21.745,
+      "PC_GDP": 1.093,
+      "USD_CAP": 240.063,
+      "TOTAL_SPEND": 321.85
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2008,
+      "PC_HEALTHXP": 18.788,
+      "PC_GDP": 1.081,
+      "USD_CAP": 244.933,
+      "TOTAL_SPEND": 327.5
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2009,
+      "PC_HEALTHXP": 19.983,
+      "PC_GDP": 1.307,
+      "USD_CAP": 268.334,
+      "TOTAL_SPEND": 358.1
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2010,
+      "PC_HEALTHXP": 20.458,
+      "PC_GDP": 1.296,
+      "USD_CAP": 280.186,
+      "TOTAL_SPEND": 373.06
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2011,
+      "PC_HEALTHXP": 19.87,
+      "PC_GDP": 1.157,
+      "USD_CAP": 283.959,
+      "TOTAL_SPEND": 376.94
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2012,
+      "PC_HEALTHXP": 20.15,
+      "PC_GDP": 1.174,
+      "USD_CAP": 305.562,
+      "TOTAL_SPEND": 404.17
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2013,
+      "PC_HEALTHXP": 19.327,
+      "PC_GDP": 1.164,
+      "USD_CAP": 319.351,
+      "TOTAL_SPEND": 420.9
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2014,
+      "PC_HEALTHXP": 18.703,
+      "PC_GDP": 1.162,
+      "USD_CAP": 331.543,
+      "TOTAL_SPEND": 435.83
+    },
+    {
+      "LOCATION": "EST",
+      "TIME": 2015,
+      "PC_HEALTHXP": 18.22,
+      "PC_GDP": 1.187,
+      "USD_CAP": 343.486,
+      "TOTAL_SPEND": 451.82
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2002,
+      "PC_HEALTHXP": 22.091,
+      "PC_GDP": 1.766,
+      "USD_CAP": 358.67,
+      "TOTAL_SPEND": 715.38
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2003,
+      "PC_HEALTHXP": 21.213,
+      "PC_GDP": 1.714,
+      "USD_CAP": 362.285,
+      "TOTAL_SPEND": 723.02
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2004,
+      "PC_HEALTHXP": 21.234,
+      "PC_GDP": 1.683,
+      "USD_CAP": 383.638,
+      "TOTAL_SPEND": 766.13
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2005,
+      "PC_HEALTHXP": 21.305,
+      "PC_GDP": 1.697,
+      "USD_CAP": 406.336,
+      "TOTAL_SPEND": 812.86
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2006,
+      "PC_HEALTHXP": 21.146,
+      "PC_GDP": 1.65,
+      "USD_CAP": 425.293,
+      "TOTAL_SPEND": 853.51
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2007,
+      "PC_HEALTHXP": 20.077,
+      "PC_GDP": 1.505,
+      "USD_CAP": 415.215,
+      "TOTAL_SPEND": 837.95
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2008,
+      "PC_HEALTHXP": 19.07,
+      "PC_GDP": 1.497,
+      "USD_CAP": 443.436,
+      "TOTAL_SPEND": 896.32
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2009,
+      "PC_HEALTHXP": 19.75,
+      "PC_GDP": 1.691,
+      "USD_CAP": 465.075,
+      "TOTAL_SPEND": 948.6
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2010,
+      "PC_HEALTHXP": 19.847,
+      "PC_GDP": 1.699,
+      "USD_CAP": 472.268,
+      "TOTAL_SPEND": 967.48
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2011,
+      "PC_HEALTHXP": 19.633,
+      "PC_GDP": 1.677,
+      "USD_CAP": 482.969,
+      "TOTAL_SPEND": 991.46
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2012,
+      "PC_HEALTHXP": 20.247,
+      "PC_GDP": 1.767,
+      "USD_CAP": 509.632,
+      "TOTAL_SPEND": 1048.39
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2013,
+      "PC_HEALTHXP": 20.358,
+      "PC_GDP": 1.783,
+      "USD_CAP": 526.46,
+      "TOTAL_SPEND": 1084.48
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2014,
+      "PC_HEALTHXP": 18.606,
+      "PC_GDP": 1.589,
+      "USD_CAP": 492.577,
+      "TOTAL_SPEND": 1015.68
+    },
+    {
+      "LOCATION": "SVN",
+      "TIME": 2015,
+      "PC_HEALTHXP": 18.33,
+      "PC_GDP": 1.566,
+      "USD_CAP": 500.567,
+      "TOTAL_SPEND": 1032.94
+    },
+    {
+      "LOCATION": "ISR",
+      "TIME": 2006,
+      "PC_HEALTHXP": 13.293,
+      "PC_GDP": 0.923,
+      "USD_CAP": 236.833,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "ISR",
+      "TIME": 2007,
+      "PC_HEALTHXP": 13.57,
+      "PC_GDP": 0.938,
+      "USD_CAP": 257.901,
+      "TOTAL_SPEND": 1851.75
+    },
+    {
+      "LOCATION": "ISR",
+      "TIME": 2008,
+      "PC_HEALTHXP": 13.389,
+      "PC_GDP": 0.937,
+      "USD_CAP": 256.823,
+      "TOTAL_SPEND": 1877.07
+    },
+    {
+      "LOCATION": "ISR",
+      "TIME": 2009,
+      "PC_HEALTHXP": 13.974,
+      "PC_GDP": 0.991,
+      "USD_CAP": 272.317,
+      "TOTAL_SPEND": 2038.46
+    },
+    {
+      "LOCATION": "ISR",
+      "TIME": 2010,
+      "PC_HEALTHXP": 13.577,
+      "PC_GDP": 0.957,
+      "USD_CAP": 276.113,
+      "TOTAL_SPEND": 2104.98
+    },
+    {
+      "LOCATION": "ISR",
+      "TIME": 2011,
+      "PC_HEALTHXP": 13.388,
+      "PC_GDP": 0.938,
+      "USD_CAP": 286.345,
+      "TOTAL_SPEND": 2223.7
+    },
+    {
+      "LOCATION": "ISR",
+      "TIME": 2012,
+      "PC_HEALTHXP": 13.213,
+      "PC_GDP": 0.941,
+      "USD_CAP": 298.796,
+      "TOTAL_SPEND": 2363.63
+    },
+    {
+      "LOCATION": "ISR",
+      "TIME": 2013,
+      "PC_HEALTHXP": 12.924,
+      "PC_GDP": 0.915,
+      "USD_CAP": 313.203,
+      "TOTAL_SPEND": 2524.26
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2004,
+      "PC_HEALTHXP": 23.68,
+      "PC_GDP": 1.475,
+      "USD_CAP": 180.294,
+      "TOTAL_SPEND": 408.03
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2005,
+      "PC_HEALTHXP": 22.548,
+      "PC_GDP": 1.321,
+      "USD_CAP": 182.984,
+      "TOTAL_SPEND": 409.66
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2006,
+      "PC_HEALTHXP": 23.176,
+      "PC_GDP": 1.33,
+      "USD_CAP": 209.574,
+      "TOTAL_SPEND": 464.91
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2007,
+      "PC_HEALTHXP": 26.523,
+      "PC_GDP": 1.53,
+      "USD_CAP": 277.258,
+      "TOTAL_SPEND": 610.06
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2008,
+      "PC_HEALTHXP": 21.484,
+      "PC_GDP": 1.209,
+      "USD_CAP": 234.848,
+      "TOTAL_SPEND": 511.34
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2009,
+      "PC_HEALTHXP": 24.354,
+      "PC_GDP": 1.499,
+      "USD_CAP": 253.112,
+      "TOTAL_SPEND": 542.08
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2010,
+      "PC_HEALTHXP": 25.794,
+      "PC_GDP": 1.586,
+      "USD_CAP": 279.009,
+      "TOTAL_SPEND": 585.24
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2011,
+      "PC_HEALTHXP": 26.092,
+      "PC_GDP": 1.454,
+      "USD_CAP": 287.478,
+      "TOTAL_SPEND": 592.12
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2012,
+      "PC_HEALTHXP": 25.519,
+      "PC_GDP": 1.383,
+      "USD_CAP": 293.962,
+      "TOTAL_SPEND": 598.01
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2013,
+      "PC_HEALTHXP": 26.284,
+      "PC_GDP": 1.419,
+      "USD_CAP": 321.85,
+      "TOTAL_SPEND": ""
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2014,
+      "PC_HEALTHXP": 26.845,
+      "PC_GDP": 1.473,
+      "USD_CAP": 351.889,
+      "TOTAL_SPEND": 701.59
+    },
+    {
+      "LOCATION": "LVA",
+      "TIME": 2015,
+      "PC_HEALTHXP": 26.761,
+      "PC_GDP": 1.542,
+      "USD_CAP": 383.852,
+      "TOTAL_SPEND": 759.08
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2004,
+      "PC_HEALTHXP": 33.914,
+      "PC_GDP": 1.867,
+      "USD_CAP": 243.511,
+      "TOTAL_SPEND": 822.35
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2005,
+      "PC_HEALTHXP": 34.341,
+      "PC_GDP": 1.937,
+      "USD_CAP": 281.439,
+      "TOTAL_SPEND": 935.09
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2006,
+      "PC_HEALTHXP": 30.993,
+      "PC_GDP": 1.809,
+      "USD_CAP": 298.436,
+      "TOTAL_SPEND": 975.86
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2007,
+      "PC_HEALTHXP": 28.47,
+      "PC_GDP": 1.639,
+      "USD_CAP": 312.933,
+      "TOTAL_SPEND": 1011.18
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2008,
+      "PC_HEALTHXP": 26.126,
+      "PC_GDP": 1.643,
+      "USD_CAP": 340.758,
+      "TOTAL_SPEND": 1089.82
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2009,
+      "PC_HEALTHXP": 26.661,
+      "PC_GDP": 1.961,
+      "USD_CAP": 356.225,
+      "TOTAL_SPEND": 1126.71
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2010,
+      "PC_HEALTHXP": 26.716,
+      "PC_GDP": 1.821,
+      "USD_CAP": 366.563,
+      "TOTAL_SPEND": 1135.35
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2011,
+      "PC_HEALTHXP": 26.038,
+      "PC_GDP": 1.692,
+      "USD_CAP": 386.589,
+      "TOTAL_SPEND": 1170.64
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2012,
+      "PC_HEALTHXP": 28.942,
+      "PC_GDP": 1.82,
+      "USD_CAP": 448.728,
+      "TOTAL_SPEND": 1340.7
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2013,
+      "PC_HEALTHXP": 28.173,
+      "PC_GDP": 1.728,
+      "USD_CAP": 461.178,
+      "TOTAL_SPEND": 1364.02
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2014,
+      "PC_HEALTHXP": 27.836,
+      "PC_GDP": 1.724,
+      "USD_CAP": 485.245,
+      "TOTAL_SPEND": 1422.92
+    },
+    {
+      "LOCATION": "LTU",
+      "TIME": 2015,
+      "PC_HEALTHXP": 26.784,
+      "PC_GDP": 1.745,
+      "USD_CAP": 504.422,
+      "TOTAL_SPEND": 1465.3
+    },
+    {
+      "LOCATION": "RUS",
+      "TIME": 2015,
+      "PC_HEALTHXP": 22.939,
+      "PC_GDP": 1.286,
+      "USD_CAP": 309.9,
+      "TOTAL_SPEND": 44655.62
+    }
+  ]
