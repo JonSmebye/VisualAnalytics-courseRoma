@@ -4,8 +4,8 @@ margin_scatter = {
     bottom: 40,
     left: 40
     },
-    width_scatter = 800 - margin_scatter.left - margin_scatter.right,
-    height_scatter = 631,92 - margin_scatter.top - margin_scatter.bottom,
+    width_scatter = 1000 - margin_scatter.left - margin_scatter.right,
+    height_scatter = 531,92 - margin_scatter.top - margin_scatter.bottom,
   
     x_scatter = d3.scaleLinear().range([0, width_scatter]),
     y_scatter = d3.scaleLinear().range([height_scatter, 0]),
@@ -91,7 +91,7 @@ function drawScatter(data) {
         .attr("cy", function (d) {
             return y_scatter(d.Y2)
         })
-        
+
     var legend = focus.selectAll(".legend")
         .data(color.domain())
         .enter().append("g")
@@ -115,10 +115,7 @@ function drawScatter(data) {
         .text(function (d) {
             return d;
         })
-        .on('click', function(d){
-        var currentContinent = d
-        update(currentContinent, fullDataSet)
-        })
+
 }
 
 function update(currentContinent, dataset) {
@@ -172,9 +169,9 @@ function update(currentContinent, dataset) {
 function drawGraph(){
     d3.select('#chart').selectAll("svg").remove();
     data = graphDataAllYears
-    var width = 1000;
-    var height = 800;
-    var margin = 50;
+    var width = 1200;
+    var height = 600;
+    var margin = 70;
     var duration = 250;
 
     var lineOpacity = "0.25";
@@ -194,7 +191,6 @@ function drawGraph(){
     data.forEach(function(d) { 
       d.values.forEach(function(d) {
         d.TIME = parseDate(d.TIME);
-        console.log(d.TIME)
         d.USD_CAP = +d.USD_CAP;    
         });
     });
@@ -206,7 +202,7 @@ function drawGraph(){
         .range([0, width-margin]);
 
     var yScale = d3.scaleLinear()
-        .domain([0, d3.max(data[0].values, d => d.USD_CAP)])
+        .domain([0, 1200])
         .range([height-margin, 0]);
 
     var color = d3.scaleOrdinal(d3.schemeCategory10);
