@@ -39,7 +39,7 @@ h1 {
 }
 
 #containerMapScat{
-  margin: 5px;
+  margin: 50px;
   justify-content: center;
   width: 100%;
   height: 100%;
@@ -51,27 +51,4 @@ h1 {
 }
 
 
-  #map-holder {
-    width: 930px;
-    height: 700px;
-    padding: 10px;
-    align-self: center;
-  }
   
-  .country{
-    fill: #2A2C39;   /* country colour */
-    stroke: #d0d0d0; /* country border colour */
-    stroke-width: 1; /* country border width */
-  }
-  .country-on{
-    fill: #4B5358;   /* highlight colour for selected country */
-  }
-  .countryLabel{
-    display: none;   /* hide all country labels by default */
-  }
-  .countryName{
-    fill: #FFFAFF;   /* country label text colour */
-  }
-  .countryLabelBg{
-    fill: grey;   /* country label background colour */
-  }

@@ -10,19 +10,59 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Yanone+Kaffeesatz:200" rel="stylesheet">
+    <style>
+        svg {
+    font-family: Sans-Serif, Arial;
+    }
+    .line {
+      stroke-width: 2;
+      fill: none;
+    }
+    .axis path {
+      stroke: black;
+    }
+    .text {
+      font-size: 12px;
+    }
+    .title-text {
+      font-size: 12px;
+    }
+    #col-1 {
+  position: relative;
+  width: 50%;
+  float: left;
+  height: 100%;
+  z-index: 1010101010
+}
 
+#col-2 {
+  position: relative;
+  width: 50%;
+  float: left;
+  height: 100%;
+  z-index: 1010101010
+}
+
+        </style>
 </head>
 
 <body>
     <div id = 'container'>
-        <div id='containerMapScat'>
-            <div id="scatterArea"></div>
-            <div class="new_line" id ="map-holder"></div>
+        <div id="col-1">
+            <h1>Plot of selected countries</h1>
+            <div id="chart"></div>
+        </div>
+        
+        <div id="col-2">        
+            <div id='containerMapScat'>
+                <h1>Data from 2015</h1>
+                <div id="scatterArea"></div>
+                <div class="new_line" id ="map-holder"></div>
+            </div>
         </div>
     </div>
 
-    <script src="js/scatter.js"> </script>
-
+    <script src="js/scatterPlot.js"> </script>
 
 </body>
 </html>

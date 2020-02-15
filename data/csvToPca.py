@@ -5,7 +5,7 @@ from matplotlib.mlab import PCA as mlabPCA
 from sklearn import preprocessing
 
 def generateFile(label,Y,dataFile):
-    att=['Y1','Y2']
+    att=['Y1','Y2','Y3','Y4']
     #att=['Y1','Y2', 'Y3', 'Y4', 'Y5',]
     #att = label
     f=open('pca.csv','w')
@@ -19,10 +19,10 @@ def generateFile(label,Y,dataFile):
     f.close()
 
 #read data from a CSV file, you can choose different delimiters
-att=['Price', 'HumanDevelopmentIndex']
+att=['PC_HEALTHXP','PC_GDP','USD_CAP','TOTAL_SPEND']
 #att=['2019', 'Institution Name', 'Country', 'SIZE', 'FOCUS', 'RES.']
 data = pd.io.parsers.read_csv(
-     'bigMacIndexHumanDevIndex.1.csv',
+     'toPcaData.csv',
      header=None
     )
 data.columns=att
@@ -30,4 +30,4 @@ print(data.head())
 d=data.values #we exclude the first column
 
 d_pca = mlabPCA(d)
-generateFile(att,d_pca.Y,'bigMacIndexHumanDevIndex.1.csv')
+generateFile(att,d_pca.Y,'toPcaData.csv')
