@@ -3,55 +3,36 @@
 <head>
     <link href="css/style.css" rel="stylesheet" type="text/css">
     <link href="css/graph.css" rel="stylesheet" type="text/css">
+    <link href="css/dropDown.css" rel="stylesheet" type="text/css">
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <title>VA</title>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Yanone+Kaffeesatz:200" rel="stylesheet">
     <style>
-        svg {
-    font-family: Sans-Serif, Arial;
-    }
-    .line {
-      stroke-width: 2;
-      fill: none;
-    }
-    .axis path {
-      stroke: black;
-    }
-    .text {
-      font-size: 12px;
-    }
-    .title-text {
-      font-size: 12px;
-    }
     </style>
 </head>
 
 <body>
-        <div id="div1">
-            <h1>Total spending by countries in 2015</h1>
-            <div id="table"></div>
-        </div>
+    <h1>Pharmaceutical Drug Spending by countries</h1>
         <div id="div2">
-            <h1>Spending per capita in 2015</h1>
-            <div id="tables"></div>
+            <h2>Spending per capita in 2015</h2>
+            <div id="vis-container"></div>
         </div>
         <div id="div3">
-            <h1>USD CAP for selected countries</h1>
+            <h2>USD CAP for selected countries</h2>
             <div id="chart"></div>
         </div>
         
         <div id="div4">        
             <div id='containerMapScat'>
-                <h1></h1>
                 <div id="scatterArea"></div>
                 <div class="new_line" id ="map-holder"></div>
             </div>
     </div>
 
     <script src="js/scatterPlot.js"> </script>
-    <script src="js/tables.js"></script>
+    <script src="js/table.js"></script>
 
 </body>
 </html>

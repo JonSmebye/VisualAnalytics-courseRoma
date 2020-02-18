@@ -49,7 +49,7 @@ svg.append("text")
   
 function drawScatter(data) {
     cValue = function (d) {
-      return d.Continent;
+      return d.LOCATION;
     }
   
     color = d3.scaleOrdinal(d3.schemeCategory10);
