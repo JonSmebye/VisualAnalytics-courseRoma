@@ -118,13 +118,6 @@ function drawScatter(data) {
 
 }
 
-function update(currentContinent, dataset) {
-    var dataFilter = dataset.filter(function(d){
-        return d.Continent==currentContinent})
-    //updateTableData(dataFilter)
-    drawScatter(dataFilter)
-}
-  
     //brush to scatterplot  
   brushTot = d3.brush()
     .extent([

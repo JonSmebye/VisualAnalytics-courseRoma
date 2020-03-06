@@ -9,12 +9,22 @@ h1 {
     padding: 10px;
     margin-bottom: 5px;
 }
+h2 {
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 5px;
+}
 
 #table {
 fill:steelblue;
 }
 
 #container {
+    display: flex;
+    align-self: center;
+    align-items: center;
+}
+#container2 {
     display: flex;
     align-self: center;
     align-items: center;

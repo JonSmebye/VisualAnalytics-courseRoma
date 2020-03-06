@@ -1,0 +1,23 @@
+#chooseDataHeader {
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    background-color:#2A2C38;
+    color: #F0F0F0;
+}
+#sortP {
+    align-self: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: large;
+  }
+  
+#dd {
+    font-size: small;
+    color:black;
+    padding: 8px 16px;
+    border: 1px solid;
+    border-color: black;
+    cursor: pointer;
+    background-color:  #F0F0F0;
+  }
