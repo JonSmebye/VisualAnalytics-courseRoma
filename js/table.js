@@ -16,10 +16,10 @@ var drawTable = function(){
         data.forEach(function(d) {
             let country = d.LOCATION;
             let time = d.TIME;
-            let PC_HEALTHXP = d.PC_HEALTHXP;
+            let TOTAL_SPEND = d.TOTAL_SPEND;
             let list = {};
             list['LOCATION'] = country;
-            list['value'] = PC_HEALTHXP;
+            list['value'] = TOTAL_SPEND;
             yearMap[time].push(list);
         });
         makeVis(yearMap[years[0]]);
